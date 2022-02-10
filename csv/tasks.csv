@@ -1,0 +1,2458 @@
+gid,custom_fields,due_on,name,notes,start_on
+1163103552506513,,2020-02-27,Example Task,,null
+1163006841605730,,null,Example Task,,null
+1141511490626098,,null,Example Task,,null
+1136464734471117,,null,Example Task,,null
+4824584069992,,null,2 SF Technical Support Reps,,null
+4824584069994,,null,3 SF Technical Account Managers,,null
+4824584069996,,null,2 AMS Technical Account Managers,,null
+4824584069998,,null,1 SF Strategic Optimization Consultant,,null
+4824584070000,,null,1 SF Customer Education Manager,,null
+4824584070002,,null,2 SF Customer Account Executives,,null
+3690140995213,,null,[tech] platinum training curriculum,,null
+4881367016366,,null,"[tech] prominently display most requested, accessed KB articles in support.optimizely.com",,null
+3690140995178,,null,[tech] launch intermediate and advanced training webinar for customers,,null
+4824584069964,,null,"[tech] more ""getting started"" tutorials",,null
+5002616932152,,null,[non-tech] get customer processes wrapped around optimizely,,null
+4888485294587,,null,[non-tech] find new ways to WOW customers,,null
+4824584069962,,null,[non-tech] generate more customer success story case studies,,null
+4888485294578,,null,"[non-tech] ""8 Steps to Optimizely Success"" (adoption ladder)",,null
+4824584069966,,null,"[non-tech] adding NPS ""how likely are you to recommend Optimizely to your friends and colleagues?""",,null
+4888485294583,,null,"define requirements for support, project management and customer success systems",,null
+2943349204993,,null,integrate phone support calls into desk.com for tracking,,null
+4881367016368,,null,update support voicemail to be more customer friendly,,null
+4824584069968,,null,increase # of nice reply responses,,null
+4824584069970,,null,add post-onboarding survey for platinum clients,,null
+4824584069972,,null,"improve strategy on handling the queue, enforcing SLAs by subscription level",,null
+4824584069974,,null,set goal of which systems we want up and by when,,null
+4824584069976,,null,measuring focus and impact of presales efforts,,null
+4824584069978,,null,better visibility into customer feature requests,,null
+4881367016370,,null,"add label to cases that might be good candidates for kb article, video, etc.",,null
+4824584069980,,null,"personal/team OKRs, performance metrics",,null
+4881367016362,,null,"host san francisco meetup for tech support teams (desk.com, atlassian, zendesk, ?)",,null
+4876718242317,,null,"schedule bi-monthly training (technical, customer service topics, invite guest speakers)",,null
+4824584069982,,null,increase referrals,,null
+4824584069984,,null,reduce TAM effort per client,,null
+4824584069988,,null,office exchange program,,null
+4824584069990,,null,"office notification when significant customer event occurs (10 nicereply, happy onboarding, renewal?)",,null
+4824584070006,,null,revamped new hire onboarding guide,,null
+4607420624744,,2013-05-15,[YouSendIt] Onboarding (POC),"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Linda Tai	linda.tai@yousendit.com ",null
+4084652005631,,2013-03-14,[Liftopia] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Dave Nuffer	dave@liftopia.com",null
+6367886931767,,2013-08-12,[ricardo.ch] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Mike Jenke mike.jenke@autoricardo.ch
+
+Location: Zug, Switzerland",null
+3015571272548,,null,[Home Depot Canada] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0",null
+4095388482641,,null,[Dish Digital] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Patrick Morris	patrick.morris@dishdigital.com",null
+5241268762914,,2013-05-27,[Centerfield Media] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Gary Pak	gpak@centerfield.com",null
+2370828629330,,null,Geico,,null
+2049743578293,,null,Fareportal (CheapOair.com),,null
+1950081073612,,null,Orbitz.com,,null
+2214672260792,,null,Gazelle,,null
+2049743578283,,null,Footlocker/Eastbay,,null
+1959052484361,,null,GoDaddy.com,,null
+2917655164663,,2013-03-12,[Gilt Japan] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Thomas Tachibana, Product Manager	ttachibana@gilt.jp",null
+6312291838951,,2013-11-15,`[Gamefly] Onboarding (starts 8/15),"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Saujin Yi, VP Strategy & Product	syi@gamefly.com
+
+90 day poc starts aug 15th
+",null
+6367884483517,,2013-09-05,[Red 7 Media] Onboarding (Starts 8/5),"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Sarah Szczesny <SSzczesny@red7media.com>
+Used to be: Kelly Cingari <kcingari@accessintel.com>
+
+",null
+4177104087937,,2013-03-21,[Bang with Friends] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Colin Hodge, Founder and CEO	c@bangwithfriends.com",null
+5050815313288,,2013-08-09,[OnlineFabricStore] Onboarding (90 Day POC),"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Matthew Trant, Director of Digital Marketing	mtrant@onlinefabricstore.net",null
+5605542983627,,2013-06-28,[Influenxia] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Carlos Guillen	carlos.guillen@influenxia.com",null
+6676013189086,,2013-10-22,[Alex and Ani] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Chad Westleigh  cwestleigh@alexandani.com
+
+",null
+6565842797685,,2013-10-19,[ATG Stores]  Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Tom Heffernan <Theffernan@atgstores.com>
+
+Location: Seattle, WA",null
+6676011977598,,2013-10-19,"[Yodle, Inc] Onboarding","[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Kevin Beatty kbeatty@yodle.com
+
+",null
+6565842555984,,2013-10-18,[CreditKarma] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Paolo Padierno, Product Manager paolo.padiernos@creditkarma.com
+
+",null
+6565842148353,,2013-08-19,[Logitech] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Kris Irizawakirizawa@logitech.com
+Upgrade from Gold to Platinum
+
+
+",null
+6367884139343,,2013-10-02,[MXM/Genex] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Mark Bieschke	mark.bieschke@mxm.com
+(existing  account is under: mwolfe@genex.com )
+
+",null
+5730085301076,,2013-07-10,[Kobo Inc.] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Director, Online Marketing - john gareau	jgareau@kobo.com
+
+",null
+6565842388003,,2013-11-15,[GameStop] Onboarding 90 day POC,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Chris Williams, PM
+christopherwilliams@gamestop.com
+
+",null
+6120885488348,,2013-09-23,[NBC] Onboarding (90 day POC),"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Andy Gallagher	Andy.Gallagher@nbcuni.com
+
+",null
+6312290945800,,2013-07-29,[TimeLife.com] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Paul Crocker, Marketing Director	""	 paul.crocker@timelife.com""
+
+",null
+5730086382577,,2013-07-17,[Movember] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] David Smith 	david.smith@movember.com
+
+Location: Australia
+
+Contract Type: no opt-out, auto-renew: yes
+",null
+6367886590726,,2013-07-26,[Jagex] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Neil McClarty neil.mcclarty@jagex.com
+
+Location: UK",null
+6120885840640,,2013-09-26,[Malwarebytes.org] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Rebecca Kline CMO	rkline@malwarebytes.org
+
+",null
+5885782706901,,2013-10-17,[1saleaday] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+Admin Account:
+dev@1saleaday.com
+
+[Project Owner] Auston Bunsen	auston@1saleaday.com
+
+Location: Florida
+
+Contract Type: 4 month POC.  Auto-renew: Yes",null
+5699437732795,,2013-07-05,[Marines] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Michael Smith	michael.smith@jwt.com
+
+",null
+5885786039262,,2013-10-01,[Campus Explorer] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Nick Roberts, Sr. VP of Marketing	nroberts@campusexplorer.com
+
+Location: LA
+
+Contract Type: 3month POC (start 7/1), no auto renew
+
+",null
+6312290678420,,2013-09-28,[Dominion Enterprises] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Phillip Billups, Web Design Manager	phillip.billups@dominionenterprises.com
+
+",null
+5331165116408,,2013-08-05,[McAfee] Onboarding (90 day POC),"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Katrina Nater	Katrina_Nater@mcafee.com",null
+5885786670140,,2013-09-20,[C.C. Filson Company Inc.] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Sabrina Spencer, eCommerce Manager	Sabrina.Spencer@filson.com
+
+Location: Seattle
+
+",null
+4144895900524,,2013-03-18,[Quisma] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Julian	julian.stein@quisma.com",null
+6312290310702,,2013-09-27,[ForRent (Dominion Enterprises)] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Bianca	bianca.chesimard@forrent.com
+
+",null
+2956932036474,,2013-02-07,[ABC News] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Project Owner] Kristen Hague	kristen.hague@abc.com
+",null
+6367885649940,,2013-09-08,[Bleacher Report] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Chris Ngyuen csnguyen@bleacherreport.com
+
+mobile@bleacherreport.com is the account they want upgraded.
+
+
+",null
+6367886196435,,2013-08-12,[Malaysia Airlines] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Nursyamsiah (""Syams"") Shamsuddin, eCommerce Analyst nursyam@malaysiaairlines.com
+
+Location: Kuala Lumpur, Malaysia
+
+EU TAM: Lucas
+SF TAM: James
+
+",null
+5885784901498,,2013-09-20,[Armani Exchange] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Robbi Webb, eCom director	rwebb@armaniexchange.com
+
+Location: NYC
+
+Contract Type: 90-day opt-out
+Auto-renew: Yes
+",null
+5885784031069,,2013-09-18,[HealWheel Inc.] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Bruno Ancona Lopes, Online Marketing Director	bruno@healwheel.com
+
+Location: Sao Paolo / Rio , Brazil
+
+Contract Type: 3month POC
+Auto-renew: Yes",null
+6120885173894,,2013-09-20,[Sundance Catalog] Onboarding (90 day POC),"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Patrick Keller 	patrick.keller@sundance.net
+
+Location : Utah
+
+",null
+6120885763821,,2013-07-26,[Norges Automobil-Forbund] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Pål Erik Bruserød	peb@naf.no ",null
+6312291460093,,2013-09-29,[DIRECTV] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Matt Donovan	mddonovan@directv.com
+(already an account for Jtran@directv.com that should be upgraded)
+
+",null
+5541978082036,,2013-08-15,[Sony Europe] Onboarding (3mo POC),"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Satoshi Koyama	satoshi.koyama@eu.sony.com
+AE: Julio",null
+4838175879510,,null,[Pizza Hut] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Kevin Fish	kevin.fish@yum.com",null
+5638595988795,,2013-08-30,[Zoosk] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] Mark Wu, Marketing Manager	markw@zoosk.com
+
+",null
+5130327761035,,null,add 1 question per trait category,,null
+5130327761025,,2013-04-26,Come up with an Asana framework,https://docs.google.com/a/optimizely.com/document/d/1VM7hwbqb8zjWE8gMOWX_oKENh7WmYsOwsCdNF_zQFFk/edit#,null
+5130327761018,,2013-04-29,Come up with questions to ask new hires,https://docs.google.com/a/optimizely.com/document/d/1KD67ObC0vLzJXJg99rYxt5eNy9_Z2IzYjS5F7yytVqQ/edit#,null
+4729934430439,,null,[Acme Inc 1] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] ",null
+5638554778727,,null,[Acme Inc 2] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] ",null
+5638565545245,,null,[Acme Inc 3] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] ",null
+5638583380518,,null,[Acme Inc 4] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] ",null
+5638583667281,,null,[Acme Inc 5] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] ",null
+5638583920241,,null,[Acme Inc 6] Onboarding,"[ONBOARDING OBJECTIVE] create an awesome experience for new platinum clients so they 1) decide NOT to opt-out of 30 day trial and 2) have a great foundation to be successful
+[DESCRIPTION] this includes all the major provisioning and TAM tasks needed to successfully onboard a new platinum client.  
+[Sales Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=0Ap5qCQ_OckeXdGFMczdpeU54OTlIRTc0MTNKSEM5amc#gid=0
+[Customer Survey] https://docs.google.com/a/optimizely.com/spreadsheet/ccc?key=tEueQS9r3_HLlpgMDlkYogw#gid=0
+
+[Project Owner] ",null
+12575331810928,,null,"As Optimizely, I want to re-open the Business Systems Analyst role to expand BizOps capacity",,null
+12912466407562,,null,"As an Optimizely employee or user, I want my data to be secure","[Code Yellow]  OpenSSL vulnerability patching
+** Phabricator
+** Marketo
+** SFDC",null
+13068704255320,,null,"As an Optimizely engineer, I want documentation on rotating SFDC and Marketo API keys","Safely, and without disrupting users of these systems on Sales, Success, Marketing and Finance",null
+13092383244655,,null,"As Sales Operations, I want to discuss ideas for fixing the MQL trigger process",,null
+12801507222785,,null,"As the BizOps team, I want data about all product users exported to S3 on a daily basis","Including admin account, user ID, and user role",null
+13203531706970,,null,Investigate spike in SFDC API usage starting 06/17/2014,See https://na8.salesforce.com/00OC0000004eHdg,null
+13420422226816,,null,"As an Optimizely employee, I want all SFDC automation to not be broken (API Limit Fix)",,null
+12575331810942,,null,"As Optimizely, I want to open a role for a full-time Product Owner for BizOps",,null
+13144997088961,,null,"As Jon G, I want to understand how the new BSA role in Success compares to the BSE role",,null
+13178760686279,,null,"As Marketing, Success, and Sales, I want existing Contacts in Salesforce updated with information about their corresponding product user",,null
+13677988200779,,null,Investigate BuiltWIth API limit issues,,null
+14591424187427,,null,Eliminate use of Future calls in lead routing (in Apex or Python),,null
+14986772735244,,null,Re-architect Credential to always disable caching,"Confirmed tonight that there is indeed a lag until the app recognizes the new datastore credential, even after editing via Remote API and also deleting / re-creating the record. ",null
+14954735077318,,null,Add monitoring for Marketo SOAP API connection,,null
+14950311270357,,null,Switch InsideView usage to their new API (yay),,null
+14950322727760,,null,Continue third_party investigation via appengine_config file,,null
+14762129984863,,null,Turn off BuiltWith domain technologies enrichment on Differ,"Per Ash, Dan, Will since it's not used anymore by Sales.",null
+14761999641222,,null,Also look into Opportunities routing thing,,null
+14761999641224,,null,Re-enrich with Alexa and InsideView leads that it's failed on,,null
+14760321237858,,null,"As Andy & Theo, I want starter projects","Possibilities:
+-- https://app.asana.com/0/12575331810926/13373923040079 
+---- We might do this this week. Otherwise could be good project.
+
+-- https://app.asana.com/0/12575331810926/13373923040081 
+---- Good project if we get inbound lead version done this week.
+
+-- https://app.asana.com/0/12575331810926/13241661192307 
+---- AFAIK this requires new integration w/ backend, so maybe too complex for a starter project... thoughts?
+
+-- https://app.asana.com/0/12575331810926/12929668123941----  More info in this JIRA ticket: https://optimizely.atlassian.net/browse/GRW-339
+---- Could be a good standalone project.
+
+-- https://app.asana.com/0/12575331810926/12575708160372 
+---- Could be cool if new BSE wants to dive into front-end code. Maybe too complex for starter project since may require custom stuff on WWW integrations w/ Munchkin.
+
+-- https://app.asana.com/0/12575331810926/13178760686281 
+---- This could actually be a good one. Would require meeting w/ business to figure out exact requirements but the implementation may not be that bad.
+
+-- Everything from https://app.asana.com/0/12575331810926/12575967347707 
+---- Not sure if any of this is still relevant TBH. 
+
+
+Jon's proposed:
+- ""Enrich all existing Account records with Target Market scores""
+- ""Add tracking of technology partners to BuiltWith SFDC Integration"", but with a clarifying meeting this week. I'm not 100% sure I know exactly what they want.",null
+14760321237853,,null,"As a new BSE, I want an onboarding program and documentation",,null
+14619460341787,,null,"Update target customer app to pull from output file stored in S3, not a static file in App Engine",,null
+14473725905995,,null,Investigate InsideView bulk enrichment issues,,null
+13178760686281,,null,"As S/M/S, I want leads with emails matching product users automatically converted as Contacts into the Salesforce account for each user",,null
+14473565166623,,null,"Host Patrick McKenzie's ""TalkingPoints"" page (contractor project)",,null
+12895254009592,,null,Confirm Recurly integration is overwriting SFDC contact data,"https://na8.salesforce.com/003C000001TyanK
+https://optimizely.recurly.com/accounts/226310085
+
+",null
+12895254009590,,null,"As Sales/Marketing/Finance, I want details on user sign-up flow","Joint Monetization and BizOps project.
+
+Request to document marketing.py etc sign-up flow from various folks on the above teams including https://app.asana.com/0/11676790158498/11676790158498 https://app.asana.com/0/10694842446189/10694842446189 https://app.asana.com/0/9409202410887/9409202410887 
+
+Jira ticket:
+https://optimizely.atlassian.net/browse/MONEY-77
+",null
+13178760686286,,null,"As Marketing, Success, and Sales, I want a Contact created for product users without a pre-existing Contact or Lead",,null
+13178760686288,,null,"As Marketing, Success, and Sales, I want the SFDC Contact for a user deleted/deactivated in the product to be updated as no longer a product user in SFDC",,null
+12575331810944,,null,"As Marketing, Success, and Sales, I want in-product users to be synced to the correct account in Salesforce on a daily basis",With their product user status and in-product user role provided.,null
+13373923040079,,null,Automatically get Target Market score for inbound lead,,null
+13373923040081,,null,Enrich all existing Account records with Target Market scores,,null
+13373923040083,,null,"Create button on Lead, Account, and Opportunity records which looks-up Target Market scores (jumps to the app)",,null
+12575331810936,,null,"As the BizOps team, we want a rigorous methodology for knowing whether changes we make to lead enrichment actually make it more valuable",With support from David Shere.,null
+12575331810940,,null,"As the Sales team, I want to know how much enrichment would improve if we requested company name up front",,null
+13241661192307,,null,"As the Sales team, I want the SFDC account updated whenever a customer is projected to go over their usage limit OR does go over their limit",- Open question: Can we rely on the email alerts from maintenance.py to know when a customer is projected to go over their limit?,null
+12929668123941,,null,Add tracking of technology partners to BuiltWith SFDC Integration ,https://app.asana.com/0/4081796860237/4081796860237 https://app.asana.com/0/7547263682960/7547263682960 ,null
+13420422226828,,null,Follow up with Will on account tagging cron job business logic,,null
+12575708160372,,null,"As the SDR team, I want leads coming from the act of adding users in the product to be clearly labeled",,null
+12575967347707,,null,"Older JIRA issues, possible starter projects",,null
+12929684405395,,null,Salesforce API zeroing out old opportunities,"Affects Sales commissions
+May be a Marketing.py issue",null
+12977564181415,,null,Turn off all Lead Scoring in Differ,,null
+13062797526769,,null,Remove unused Marketo code from WWW,,null
+13181859234446,,null,Clean up expired/unused credentials from Differ,,null
+13209086201735,,null,Fix lint errors in salesforce.py in Differ,,null
+13307751067673,,null,Move BuiltWith key to Credential and rotate,,null
+13447747135265,,null,Add job to delete old product user data from S3 (Rama's suggestion @ sprint review),,null
+13373923040087,,null,Update https://optimizely.atlassian.net/wiki/display/ENG/Non-Product+Infrastructure,,null
+14487264846463,,null,"As Sales, I want to know if Infer lead scoring is not running on new Leads since it's a critical process",,null
+14554247649143,,null,"As S/M/S, I want to understand the detailed impact of the recent SFDC API outage",,null
+2545788293720,,2012-11-26,sandbox/store page shows dialog briefly before hiding it,,null
+2475994159727,,2012-12-06,Register optimizelysandbox.com (to avoid being able to hijack cookie from optimizely.com),Pete: what do we need to do about this? Are you still concerned about this issue?,null
+2520042440159,,null,Reporting Data,"Use case: correlate your optimizely data with purchasing data in the store
+
+Implementation: hidden fields for optimizely experiment ID and variation ID",null
+2475994159725,,null,API Sandbox - Launch,,null
+2465124334933,,null,Update copy - introduction,Collaborative doc: https://docs.google.com/a/optimizely.com/document/d/1Ga8oEs8J3UA2ePM7nyiFXbcfzbvje3C8k-C3yDb3-XA/edit,null
+1857630587148,,2012-09-21,Keyboard shortcuts for Edit,CTRL-Enter in code editor for Apply,null
+1857630587150,,2012-09-21,Highlight elements when hover over selector in Edit Code,"In Edit mode with the code editor open, when you mouseover a selector expression, highlight matching elements on the client page. This will make it easier to ""connect the dots"" between the generated code and the elements
+",null
+2219100220728,,2012-11-29,Examples,Should include KB article and sandbox implementation,null
+2520042440148,,null,Other examples?,,null
+2763913899511,,2012-12-14,Add sentence explaining sandbox (x3) and superscript for footnote ,"Use a Custom Tracking Event to tell Optimizely about something that happens on your page.
+See our implementation on [this sandbox page]. << feel free to modify copy
+---
+Activate an experiment after the page has loaded in order to run a test against dynamically loaded content.
+See our implementation on [this sandbox page]. << feel free to modify copy
+--
+[sentence about reporting data]
+See our implementation on [this sandbox page]. << feel free to modify copy
+
+----
+
+www.optimizelysandbox.com/store?optimizely_project_id={your project id}. << add superscript 1 after project id, as part of the link, so people know they're looking for a footnote.
+",null
+2219100220705,,null,API Sandbox - extras,"Sandbox (Fancy version, includes getting started examples for everyone)
+
+ Same as above, but we should auto-populate each new account (not each new project) with these experiments:
+ Example A/B Experiment
+ Example Multivariate Experiment
+ Example Dynamic Experiment
+ Example Dynamic Experiment (modal pop-up)
+ Example SiteCatalyst snippet
+",null
+2707176824934,,null,"Add to Edit Code ""For advanced implementations, see our [API documentation]."" (link ""API documentation"" to /docs/api)",,null
+2219100220701,,2012-11-16,API page enhancements,"(From Pete)
+
+Documentation
+
+ Navigation
+ Left-hand-side nav should stay on the page as you scroll down
+
+ Overview 
+ 1st paragraph should sell this to engineers!
+ 2nd paragraph should contain a clear bulleted list of use cases which link to detailed examples
+ Experiment on a popup on a dynamic page
+ Activating SiteCatalyst integration
+ Integration with in-house analytics platform using data object
+ Debugging experiment activation with preview()
+ Tracking custom events
+ Kill paragraph about not including stuff in the main API
+ 3rd paragraph should give simple 2-bullet explanation of API function calls and data object
+ 
+ API Function Calls
+ Should be one paragraph explaining what function calls, in general, are for
+ First section should be: The two ways of making function calls with bulleted separation
+ EACH code example on the page should use window.optimizely = window.optimizely || []; to start with
+ 
+ 
+ Each section should include:
+ Motivation--why include this
+ Example usages
+ link to sandbox and/or KB
+ enumeration of potential variables
+ code example
+",null
+2518662720235,,2012-11-19,/docs/tutorials page (linked from Tutorials on /docs/api),,null
+2219100220663,,null,API Functional Docs,Include all arguments for each call (generate from JSDoc?),null
+2219100220655,,2012-11-14,API Sandbox - simple,"Sandbox (Simple version)
+
+ Example page on www.optimizely.com/sandbox
+ This page by default loads an example optimizely snippet, which must be kept up-to-date
+ Should accept a URL parameter specifying which snippet to show (be sure to sanitize!)
+ Should expose a text field allowing the user to input a project ID
+ Should fire a custom even in several places, including when the modal dialog is popped up and closed
+ Should have buttons that
+ loads a modal dialog with dynamic content
+ opens the optimizely preview panel, with a note that ?optimizely_preview=true is identical
+ tracks a custom event
+ activates an experiment
+ Should look at optimizely.data and send a tracking request back to a fake custom analytics service
+ Link to source code for the page
+ 
+ This should be linked to on the API docs and anywhere appropriate in the KB
+ 
+ /sandbox should by default include the snippet from the first project of the currently logged-in-user
+ this should be switch-able on the page as above between a project of your choice and a standard static default snippet
+",null
+2301740889202,,2012-11-14,Example dynamic experiment,"An example page that triggers a modal dialog with content modified by experiment
+
+Welcome message on create account
+-> Change CTA
+-> Remove nonrequired field
+
+
+From pete's targeting notes:
+
+
+    window.createAccountModalOpened = true;
+    window.optimizely = window.optimizely || [];
+    window.optimizely.push('activate');
+    window.createAccountModalOpened = false;
+    
+    
+    
+    Experiment Targeting:
+    Custom JS:
+    
+      window.createAccountModalOpened
+",null
+2368098142751,,2012-11-09,Mocks for nice-looking sandbox page,Reference: http://optimizelysandbox.appspot.com/,null
+2368098142755,,null,HTML for nice-looking sandbox page,"To demonstrate our awesome API. Page should be a fake web store selling something. Click ""Add to Cart"" and a modal dialog comes up to let you increase the quantity and checkout.",null
+2288629619092,,2012-11-02,"Update preview ""activate"" status when activated via API",,null
+2219100220679,,null,Events tab,"Clean up display of logs (what needs to be added/removed?)
+Autoscrolling (like tail -f)",null
+2219100220668,,null,IDE Features,Make preview more usable for beginners by adding features to help with analyzing experiments and discovering API functionality,null
+2219100220683,,null,Make preview panel sticky across page refreshes/navigation,"Add a button to force preview mode across an entire session (determined by cookie?), even when the user navigates from one page to another or refreshes without the query param.",null
+2219100220725,,null,Informal spec for new /api structure,"Should include description of current/future state for:
+
+routing
+resources
+methods
+access",null
+1857630587154,,null,See all Experiments by Account,"Relevant desk case here: https://optimizely.desk.com/agent/case/18249
+User wanted a way to programmatically access a list of all experiment and variation ids/names by account.
+
+Jeff suggested I add this to this portion of Asana as a request for the future.",null
+2560656513570,,null,Send tracking events in bulk form the client,"If we could have an option to delay all tracking calls until a ""sendRequest"" API is called which contains everything in a single tracking request that would make Orbitz happy.",null
+1857630587141,,null,Quiet mode for Optimizely,"Make a switch to turn logging on/off (or multiple log levels) so that we can set it to not log anything in production and turn on when needed. This is for two main reasons:
+
+1. Customers don't need to see all of our messages, and if we forget to expunge some sensitive information it could put us at risk
+2. It would make it easier for customers to see their OWN messages (in editor for instance) if they didn't have to sift through all of the Optimizely debugging information (most of which will not be very useful anyway)",null
+2288629619094,,null,Add a real paragraph of description,Not lorem ipsum,null
+2679839031866,,null,Entry point on implementation modal (single project state),"Replace this (we don't need for single project state): 
+""If you decide to create additional projects, a new snippet will be generated for each new project. For more information, see [Managing Multiple Pages - Using Optimizely Projects].
+To add new projects, go to [My Dashboard].""
+
+with this:
+""For advanced implementations, see our [API documentation]."" (link ""API documentation"" to /docs/api)
+",null
+2679839031870,,null,Entry point on implementation modal (multiple project state),,null
+14272604021644,,null,Look into Virtual,,null
+12355699077178,,null,,,null
+4356667924093,,null,Add iPod to Browser Targeting Conditions,,null
+2341700662551,,null,Handle cookies on log.optimizely.com better,"Here are the problems:
+
+1.  We issue a new cookie every time you see a different optimizely snippet
+2. All of these cookies get sent on every log request.
+3. Our server craps out if you have more than X cookies, serving 400s
+
+A solution, suggested by Josh at Torbit, is to have log calls go to project_id.log.optimizely.com, and to scope our cookies to that domain only.  Nailed.",null
+1491209923696,,2013-06-28,Individual Combinations in MVT (multivariate tests) Cannot Be Paused,It would be great to be able to pause individual combinations without having to pause an entire variation.,null
+1476198491780,,null,Implement automatic pause experiment after X visitors have been seen,,null
+1476198491750,,null,Give users different permissions,"We've had a couple of inquiries about this. Allow admins to select different levels of control for users invited to a project. Specifically, prevent certain users from starting experiments.
+
+See attached PRD for description",null
+1694224401958,,null,"Allow switching between AND / OR in the targeting options, and its sub-options","This would be useful to set between the main options (e.g. URL matching AND / OR location matching), but also within options (e.g. any of these query parameters vs. all of these query parameters)",null
+2331978785771,,null,Better Audit Trailing/Logging/Change History of Activity available to Customer,"Received requests to, ""please give me the change history (who did was and when) for the experiment"". This has been requested before. Customers could use an ability to ""see who changed what"", and ""when was the experiment saved"" and other kind of useful logging, particularly in multiple user environments.",null
+2331536648318,,null,Add an option to fetch results via an API call,Create a request to allow users to incorporate Optimizely data into their own reports.,null
+1761422147785,,null,Add better user management across projects.,One of our accounts needs to add several user accounts to several projects. Right now we have to enter the same user in multiple times. It would be preferable if you add the users once. Then have a user dashboard where you can see all permissions and easily distribute them to multiple projects.,null
+1601312337661,,null,Mobile Site/View for Results,"@ContactZilla (8/27/2012 11:24PM): Could really do with a mobile interface to @optimizely nothing complicated. Just basic stats on a current experiment. ???
+
+11/14/2012 update: Mobile viewing of the new website design's results page sounds like it's painful for users
+",null
+2140686444579,,null,Allow substring matches for cookie and query parameter targeting,In a lot of cases people have campaigns that generate query parameters with specific values that match a pattern or have cookies that contain constants that they want to access but can't because they have to either enter the whole value or nothing at all. Make it possible to use substring matches for these targeting conditions. It could be a simple toggle that just says 'contains' and lets the user enter partial values.,null
+2819793290479,,null,Allow users to create folders on the experiments dashboard,"For clients who have a lot of experiments they want to separate them into user defined groups. Often it will be multiple groups working in the same project and want to have a space of their own.
+
+gita@zipcar.com asked for this.",null
+1484280537710,,null,Custom segmentation,"In reporting, not targeting",null
+1491601198835,,null,Recurring schedules,"requested by:
+globalpost.com
+touricoholidays.com",null
+1476198491722,,null,Don't increment stats for spiders or bots,"Using this list:
+http://www.iab.net/sites/spiders/login.php
+
+we could make this an opt-in feature to automatically include bots in the ip filter. not many people have asked about this, so i'm going to leave as a low priority.
+",null
+1476198491493,,null,Improve redirect variations in editor,"this is how VWO does it (as reported to us by a customer):
+-show the actual page that's being redirected for each variation -allow editing of the page in the editor",null
+1476198491755,,2013-06-28,Estimate how long an experiment will take,"From Richard Farr: It would be nice to have some kind of grid that estimates days needed for the test to get to 95% CI based on true conversion rate of..... X% and Y% - (variables I can input)
+
+Dan - Can use similar logic to: https://www.google.com/analytics/siteopt/siteopt/help/calculator.html",null
+1646963238837,,null,"Add ""change class"" to editor to quickly change css classes on an element","This is another option in the ""Edit"" menu: Edit CSS classes
+
+shows a text box with a list of classes in it
+bonus points: when entering a new class, auto-complete from list of classes on the page
+
+Should actually use .addClass() and .removeClass() to implement, not just blanket setting the classes that we saw on the element in the editor",null
+1468146288901,,null,Enable editing of pages that are navigated to using interactive mode,"if a user navigates to a page that contains the snippet using interactive mode in the editor, then allow editing on that page.
+currently, innie is only loaded on pages when editor query params are present.",null
+1484280537555,,null,Target Experiments by IP,Using ESI on Akamai we should be able to get the IP address at the javascript layer. This should allow us to target by IP. The targeting should be similar to the IP filtering option currently found at the experiment level. Do not remove the filtering option as it allows people to verify their tests are working without screwing up the data.,null
+1468146288904,,null,Add stat info to exported results CSV,"add the following information to the exported CSV:
+-which variation/combination is the baseline -each variation/combination's chance to beat baseline -percentage improvement over baseline
+need to calculate",null
+1476198491783,,null,Create a Condensed version of the results page,"Several people have complained that it's too hard to get any useful information when the goals are collapsed, they liked the old style results page which gave you all the information at a glance.
+It would be good to have a better 'condensed' version of the results page to let them see the information easily.
+
+Jeff -
+
+I think the two use cases we're looking at are:
+- Viewing your results by goal, and comparing variations
+- Viewing your results by variations, and then analyzing a few different goals (e.g., sign up bronze, sign up silver, sign up gold)
+
+The new results page is best for use case 1 and not as good for use case 2.
+A few things:
+
+In the multivariate branch, I've significantly decreased the padding on the results rows, which will help get more information in a screen. I also implemented a stylistic change on row hovering, so you can hover your mouse over a row to help keep it top-of-mind. These help.
+We don't really want to support two different results pages.
+
+What about using the export to csv?
+",null
+2590496169434,,null,Option to Display Visitors Over Time in Results Page,"""Is there a way to see visitors over time in addition to conversion over time. It would be very useful to see number of visitors over time, particularly for paused or archived campaigns."" -Requested by ekharkats@1800dentist.com (Platinum)",null
+1902523519896,,2013-02-01,Deleting Sections/Variations with results from the Editor should warn more aggressively that associated results will be lost (Multivariate/MVT),"If a user tries to delete a variation or section in the Editor that already has results, the editor's warning message may not adequately inform the user that they will be losing results and risk losing them permanently. Attached is a screenshot of our current warning message.",null
+2000654929985,,null,Add additional computation metrics to results,"One of our platinum customers would like to see more computational metrics included natively within Optimizely
+
+AOV (Average Order Value)
+Absolute number of events fired
+Time on site
+Yield (rev/visitor) - The average order for visitors that converted
+",null
+1467891393559,,null,Handle User Concurrency,"changes can be lost if multiple users open and save the same experiment
+
+Here's how we can do this:
+
+When user A opens an experiment in the editor, she is given the token.
+  - user A's browser checks every X seconds to see if she still has the token
+  - user A's browser checks immediately before a save to see if she still has the token
+  - if user A loses the token, a modal dialog is displayed over the experiment explaining that user A has lost the token, and can either reclaim it or go to view only mode
+  - in view only mode they cannot save and must reclaim token before saving
+
+When user B tries to open an experiment for which A has token, they can claim token or go to view-only mode
+
+",null
+4108799026784,,null,Allow Users to Change GA Custom Variable Scope,"There have been a couple of requests to allow users to set the custom variable at the visitor level instead of at the session level so that we can see conversions over multiple sessions get attributed to the correct experiment/variation.
+
+I think it would be ok to do this as an API call instead of exposing it  in the UI.
+
+ttachibana@gilt.jp (Platinum) asked for this.
+",null
+1693822036117,,null,Version Control Experiments,Users want to be able to see the various version of their site they have created. If they open an old experiment they only see the jquery on top of the current underlying code not the orignal underlying code that the variation was created on.,null
+2738734380198,,null,Autosave,"Customer comment: ""Auto-save before logging a user out would seem to be a must-have, I had the window open all day, it logged me out, and I lost all my work.""",null
+1723928473520,,null,Allow GA to follow User around domain,"Some people want to set the custom variable at the 'Visitor' level, so that if a user comes back to the page through a different channel any conversions still count for the original experiment. We had this set up but turned it off because the variable was being overwritten on mutually exclusive pages. Make this an option with a warning about the behavior. This should be a toggled option.",null
+4183341065037,,null,Allow 'new' visitors to be new in the session,"New visitors are currently only visitors who went directly to the experiment page without ever seeing another page with the same Optimizely code snippet on it. It would be helpful for experiments on pages further down the funnel to allow 'new in session'. This way visitor who are new to the website, but have seen other page in the same session can still be included.",null
+1646931204330,,null,Add ability to check certain targeting conditions when bucketing only,"I would like to see the option to have certain conditions only checked when getting bucketed. If they are already in the experiment then that condition would be ignored.
+
+The largest use case for this would be with targeting by referrer or query parameters. Typically this condition is is true for a landing page, but we want the experiment to continue for all other pages that match the URL condition. This comes up several times a week and we, support, have to add custom JS targeting conditions to fill this void. This then comes up again when the client wants to run another experiment because they don't fully understand whats going on.
+
+I see this implemented as a check box next to each targeting condition ""First Visit Only"" or something to that effect.",null
+1468146288925,,null,Select multiple elements in editor,"ability to select multiple elements on the page. this functionality would be exposed to the user from the change menu as ""Select Similar Elements"" or the like.
+functionally, this would look at the hierarchical selector for this element and find all other elements that match the structure.
+consider this page structure:
+
+<a>...</a>
+<div>...</a>
+<div>
+  Product 1
+  <span>$20.00</span>
+</div>
+<div>
+  Product 2
+  <span>$30.00</span>
+</div>
+<div>
+   <img />
+   Product 3
+   <span>$50.00</span>
+</div>
+for example, this could be the selected element:
+body:eq(0) > div.contents > div:eq(0) > span:eq(0)
+similar elements would be:
+body:eq(0) > div.contents > div > span
+we could also expose a way for users to be more selective about which elements are selected by counting the number of elements contained in each parent of the element. in this case, ""Product 3"" would not be selected, since it contains an img tag in the div.",null
+1557312411718,,null,Archived Experiments not easy to find under Views button,,null
+1484280537684,,null,Personalization released: per variation targeting,Personalization released: per variation targeting. Potentially released as a separate product or a separate campaign.,null
+1484280537669,,null,Automatic traffic allocation toward the winning variation,Implement a feature that allows automatic traffic allocation toward the winning variation using this new model this quarter.,null
+1484280537748,,null,Implement human-readable geo-location dynamic text insertion,,null
+1476198491832,,null,Provide A/B testing for emails,"Editor wouldn't work because you can't run javascript but we can link it to on website goals which would be awesome. None of the existing solutions do that and none of the existing solutions allow you to do A/B testing on programmatic emails (like ""Welcome to Optimizely!""). They are all focused on newsletters.
+
+Jeff - Just FYI, I'm pretty sure Eloqua and Marketo have A/B testing.",null
+1988094246968,,null,Add localStorage support as opposed to cookies,,null
+2215631808431,,null,Cookie control to limit to a subdomain rather than a top-level domain,"Requested by guardian.co.uk:
+""We have a mobile site and a desktop site that both sit under *.guardian.co.uk. The size of the Optimizely cookie is having a severe impact on their performance and therefore we want to limit the Optimizely experiments to the desktop site where it matters less.
+
+Ideally I think we want to exclude the mobile site from the cookie drop via some kind of global configuration... I think given the number of sub-domains we have we will want to exercise proper discretion in the future.
+
+The issue occurs for people who mix their desktop and mobile browsing experiences (on smart phones and tablets). Once they visit the desktop site the cookie is dropped for the entire domain and impacts the mobile site.""
+",null
+2046771390766,,null,Add admin subscription control to new user management dashboard.,Some of our enterprise clients have LOTS of users. Admins should have the ability to control user email preferences.,null
+3775401390596,,null,Server Side API,It should do all the things.,null
+3000993356074,,null,Native iOS AB Testing,"Please list all customers who are interested in this product in the comments below. Include details if available: level of interest, willingness to beta-test, timeframe when they'd like to implement, etc.",null
+2918414909145,,null,Apply multiple segments at once,"Add ability to apply more than one segment at a time
+Include TRUE/FALSE options for each segment
+Include AND/OR operators across selected segments",null
+3014279917504,,null,Add option for Export Reporting CSV to breakdown conversions by day,"Client requested ability to have an export or report that breaks down conversion numbers by date. Attached is an Excel example.
+
+Requested by jlin@carbonite.com (Platinum). ""Something that I've been struggling with recently is getting at trended data – the graphs show engagement metrics over time, but exporting the results only gives me total data across the entire time period. It would be great if I could export trended data from the time the experiment began (e.g. 2 signups on day 1, 5 signups day 2, 3 signups day 3, 1 signup day 4, etc; 100 visitors on day 1, 150 visitors on day 2, 110 visitors day 3, etc).""
+
+""What I'd love to get would be an export of all goals and all the numbers that make up the graphs. I've attached a simplistic view of what I'm trying to describe, but it should give a basic idea of what I'm looking for.
+
+For an experiment that has been running for 7 days, I could pull 7 different exports of each day as you suggested, and combine them all together, but it would be ideal to have all that data together already.""
+",null
+1963908856596,,2013-03-29,Add pause/start  button to results page.,,null
+2035798278401,,null,"Ability to add descriptions to goals, experiments, variations","From customer: ""For example one of our goals is an aggregate of all the other individual goals, except it omits 2 individual goals. This would be a great place to be able to document this so that when the aggregate number is different than the sum of the individual goals, people can see why.""",null
+4000706984329,,null,Add additional targeting conditions by page of multi-page experiments,"Customer request from Primedia, Platinum sehly@primedia.com
+
+Sounds like his URLs are very similar across the multi-page so he wants to be able to add custom js targeting to individual pages of the multi-page experiment.
+
+""I'm looking for a way other than RegEx, Simple Match, or Substring Match to target a page. I'm looking for something other than URL to target the page.""
+
+<quote>
+I'd like to be clear on the reason for the request so that it can receive the consideration it deserves. Otherwise, I suspect it would be turned down.
+I suspect that the original intent for the the additional Targeting options was for narrowing down Visitors or Visitor Types. That would make these targeting options appear apply only to the Experiment as a whole. Clearly, an Experiment would be useless if a visitor could were to navigate in and out of a test.
+
+With that in mind, I'm really only requesting a subset of the remaining Targeting options. Certainly, there's no point in offering:
+
+* Use the browsers
+* Prefer these languages
+* Come from these locations
+
+This leaves the following (ordered by priority – high to low):
+
+1. Satisfy this custom Javascript condition
+2. Have any of these cookies
+3. Come from these URLs
+4. Trigger any of these custom events /Are in an of these segments*
+
+Here are a few reasons why these targeting criteria would be invaluable tools for determine whether or not to Activate a Variation on a given page:
+
+1. [Primary] The ability to use javaScript conditions, Custom Events, or even Cookies to determine the page a user is viewing.
+2. Activate a Variation one page on a given page based on:
+* Cookie dropped by the same Variation on a different page
+* Coming from a specific page on the site (alternate funnel)
+
+* - We currently have code in the Global JS that generates a Custom Event that identifies the page on (document).ready. We use if for our Goals/Segments to measure or filter by visits that view specific pages. I'm not sure about the timing on this. I'm imagining that custom events fired in (document).ready are too late to register in the evaluation portion of Activation.
+
+</quote>
+",null
+4361823169698,,null,Integration with Zepto,,null
+4379112513646,,null,Add targeting condition for direct traffic,,null
+4690322012666,,null,Experiment reporting 174% conversion rate on engagement,The following experiment is reporting > 150% conversion rates for the engagement goal when looking at the Internet Explorer browser segment: https://www.optimizely.com/results?experiment_id=199635883&segment_id=173156618&segment_value=ie,null
+4686877969208,,null,Visitor count higher on dashboard,"For https://www.optimizely.com/results?experiment_id=200660945 the visitor count on the results page is lower than the visitor count on the dashboard.
+
+Possibly related to https://app.asana.com/0/1467891393503/2237213795570",null
+4292584693632,,null,Dropbox.com doesn't load in editor properly,"https://www.optimizely.com/edit#url=dropbox.com
+
+It probably should, since our demo video is based on it. This could be massively confusing for new visitors.",null
+3989003912000,,null,"Blank dashboard and no projects listed on ""Pick a project"" dialog for user dan@optimizely.com","Looks like there is a Javascript error as well. Not sure if it is related
+",null
+3932086478640,,null,"Google Analytics question, identifying the custom tracker for an experiment","https://www.optimizely.com/edit#experiment_id=176023433
+email: yannick.autphenne@citrix.com
+page URL with test running: http://stage-mktg.sharefilenext.com/?optimizely=test&optimizely_log=true
+
+Custom var slot 1 should be populated.
+
+Just looking for some help identifying a resolution for the client, or at least an explanation why the Google Analytics integration isn't working.",null
+3900530306657,,null,denominator in results page staying at 1 while conversions increase,"Over the past few weeks I have seen maybe half a dozen cases where this is happening. Doing a recount usually corrects the problem. Attached are two screen shots from two different examples. Unfortunately both are currently being recounted. If it happens againI will send to you before recounting.
+
+email address: pete@funnelinsights.com
+experiment_id: 176910297
+
+email address: matteo.gamba@wimdu.com
+experiment_id: 177067604
+
+",null
+3851311236884,,null,Security warning when opening editor on FF 18.0.1 (current build),"I saw the warning each time I tried to load a page into the editor:
+
+http://example.optimizely.com/fast
+http://www.example.com
+http://www.cnn.com",null
+3851311236889,,null,Elements selected in editor are distorted on FF 18.0.1 (current build),"To reproduce:
+
+1. Open a site like www.example.com in the editor
+2. Select an element (the contents disappear and are replaced by a strange background with rounded corners, see screen shot #1)
+3. Deselect the element by clicking off of it, and the background of the element turns blue (see screen shot #2). This one is intermittent and I don't know how to reproduce this every time.
+4. When step 3 happens, click in the toolbar of the editor so you're clicking outside and above of the iframe that contains the website. The blue background will turn grey (see screen shot #3).",null
+3848616992707,,null,"Permissions not applied to ""/pricing/subscription""z","Users who are not administrators should not have access to billing and subscription page on Recurly.
+
+Steps to reproduce:
+
+1. Sign into optimizely.com with any account that is not an administrator.
+2. Type https://www.optimizely.com/pricing/subscription.
+3. Get redirected to Recurly.",null
+3766259968044,,null,Menus in editor don't close properly,"There are two ways to reproduce this in the editor:
+
+1. Click a menu in the top nav. Then click on an element in the iframe to open the change menu.
+
+2. Click an element in the editor to open the context menu, then click a menu in the top nav.
+
+This is caused b/c click handlers are not bound in both the iframe and the window. This can be fixed by closing the menus when optly.edit.MessageType.CLICK is received by messenger.",null
+3694261096454,,null,Mongo only showing conversions for one variation and not the others but Splunk is ok. (experiment_id=163072908),"account email: guillaume@softwareadvice.com
+account id: 96847758
+experiment id: 163072908
+
+Customer had complained about this issue so I switched him to Splunk which showed conversion correctly. Thinking it may have been related to some of the undercounting issues we have been having, I did a recount for the experiment in Mongo but did not resolve the issue. Experiment is currently set to splunk.",null
+3709282138502,,2013-02-01,"Page reloads if you hit enter in ""Manage Collaborators""","Go to the dashboard page and open the ""Manage Collaborators"" dialog. Click ""Invite Collaborator"" and type in an email address. Now hit ""enter"" and the entire page gets reloaded. The collaborator isn't invited either.",null
+2988492886080,,null,"""Project picker"" should only prompt when more than one project is available","The attachment shows that project picker open when there's only one project. This is a bug.
+
+Debug info:
+
+In js/bundle/edit/project_picker.js, there's a function called prompt() that is checking if this.account.projectCount is equal to 1. This value is populated by an AJAX request to /account/info, which gets the value from _account_info() in handlers/common.py. This count doesn't take into consideration the permissions system.
+
+To correctly determine if the prompt should be displayed, it should be checking how many projects the user has ""save"" access to.",null
+2969672884436,,null,Preview mode broken for example.com,"If you create an experiment on www.example.com and try to preview it, the Optimizely preview pane is styled incorrectly in Chrome, Safari and FF. Screenshot is attached. Doesn't seem to happen on other sites.
+
+Here's a URL to reproduce the issue:
+http://preview.optimizely.com/http://www.iana.org/domains/example?optimizely_experiment=102330245&optimizely_project_id=669002&optimizely_revision=396&optimizely_snippet=s3-669002&optimizely_variation=1&optimizely_load_script=https%3A%2F%2Fwww.optimizely.com%2Fjs%2Fpreview-www-master-995.364498697147883353.js%3Ftoken=1f51e91a58ef458eb271bc22cf9bdd57&account_id=669002&optimizely_x102330245=1
+",null
+2237213795570,,null,Visitor count on the dashboard is way behind actual visitor count from the Results Page,"
+",null
+2771664529828,,null,never ending 'refreshing' page when user logs in,"same problem we were having earlier. problem was previously resolved by changing email address of users other account so that there was no duplicate, but now he is having the same problem. See attached. ",null
+2536143530086,,null,Project List and Create Project Cut Off,"For accounts with a large number of projects viewed on a smaller monitor the project list becomes scrolled. This scroll does not allow the user to access the last project and thus also the ""Create Project"" button.
+
+Attached is a screenshot for reference.
+",null
+2522287188008,,null,CSS issue on Goal dialog,"This happens when I hover over the tool tip
+
+[image: Inline image 1]
+
+Ricky Raykhenberg
+Senior Technical Account Manager
+Optimizely, Inc.
+P: 415.503.9756
+E: ricky@optimizely.com",null
+2385071330360,,null,Switches back to Experiments tab after creating segments,,null
+2385071330352,,null,IE9: Error on creating segment ,ko.mapping.fromJS in optly.dashboard.Experiments.prototype.loadSucceeded is erroring ,null
+3952226794871,,null,"IE8: ""Image"" is undefined","
+",null
+2035873004136,,null,Disable horizontal scrolling on Results main content area,This is the bug that happens when you select and drag the text to the right. Chrome -- only can replicate if you select all text on the page and drag to the right. ,null
+2351645678825,,null,Confirm that names are getting properly logged in Marketo,On the /free-trial page,null
+2622111065465,,null,Fix goal jump-to header on results page - can skip waypoint and not stick to header if fast scroll,Check if it's offscreen (waypoint? listen to scroll?) and trigger lock behavior if so,null
+1467882912249,,null,P0:,ASAP,null
+2918774884404,,null,Multi-Page Targeting Not Updating Properly,"Problem: Adding a page to a multi-page experiment automatically adds that page to targeting. Removing that page removes the targeting condition from the UI, but it persists in the JS file and the experiment still runs on that page when it shouldn't.
+
+Steps to recreate:
+1. Create a multi-page test with 3 pages.
+2. Save and start the test
+3. Delete the third page
+4. Clear all cookies or start a new session
+5. Go directly to the third page.
+
+The test should still be running on that page even though it is not technically in the targeting conditions anymore.
+",null
+1467882912235,,null,fix for Mitt Romney site,Reported by Mike.,null
+3728357350044,,null,Multiple Experiments Don't Allow You to Select the Original Variation,"I've personally experienced this on a few tests, but now a client is complaining about it as well.
+
+Steps to recreate:
+
+1. Impersonate ux@upworthy.com
+2. Open up https://www.optimizely.com/edit#experiment_id=173355373
+3. Try to select the Original Page variation
+
+There is an error in the JS console:
+
+Uncaught TypeError: Cannot read property 'left' of undefined 
+
+Looking a little bit more into it, it seems that in 
+
+var a = this.RESET_LEFT_POSITION - this.variations[this.leftmostVariationIndex].left;
+
+this.variations is evaluating to an empty array.",null
+3700961905460,,null,"Segmentation: segment titles shown as ""By null"" on the results page","https://www.optimizely.com/results?experiment_id=172302347
+https://www.optimizely.com/results?experiment_id=171844884
+
+
+",null
+1467882912252,,null,PUT MOST URGENT STUFF HERE,,null
+2760641897250,,null,Changing email address does not update the AccountToUserRole entity,This is handled via the ChangeEmailHandler and does not appear to update the new mapping tables.,null
+2760641897241,,null,Error logging in for a particular user. Query too large in account.fetch_all_by_user_id(),"GAE is erroring out because the IN list is exceeding the max ctriteria of 30. This will probably have to be broken out into multiple queries.
+
+Example account: mmcgee@embanetcompass.com
+
+The error occurs during signin.
+
+There have been several instances just this morning:
+
+https://general.optimizely.com:2000/en-US/app/search/flashtimeline?q=search%20index%3Dgae%20%22too%20many%20subqueries%22&earliest=-4h%40h&latest=now
+",null
+2618891645524,,null,"Clicking ""Add Section"" in MVT automatically adds two sections","Steps to recreate:
+
+1. Create new experiment
+2. Switch Experiment type to MVT
+3. Click ""Add Section""
+
+You should now see 3 sections when you should see 2.",null
+2063343697865,,null,Chance to Beat Baseline broken for Mongo experiments,,null
+2834028586585,,null,Optimizely scripts break web pages (including cnn.com) in upcoming Firefox versions (<= 20) by breaking setting of .innerHTML,"Reported by Mozilla (Boris Zbarsky <bzbarsky@mozilla.com> and Peter Van der Beken <peterv@mozilla.com>):
+Firefox 20 implements the WebIDL specification for HTML elements. This means that properties on HTML elements are implemented via getter/setter pairs (which was already the case) but also that the ones shared by all HTML elements are a getter/setter pair on HTMLElement.prototype (whereas before they were getter/setter pairs on the most-derived prototype).
+
+Now cnn.com loads <script src=""http://cdn.optimizely.com/js/131788053.js""></script> which goes 
+through and removes all enumerable properties from HTMLElement.prototype, then restores their values and getters but not their setters.
+
+Which means that once this script has run, setting innerHTML on, say, an HTML <div> no longer works. Neither does setting all sorts of other 
+properties (e.g. no more setting onclick, etc).
+
+Would you mind fixing your script to preserve setters as well, not just 
+getters?
+
+Desk case: https://optimizely.desk.com/agent/case/24303
+Discussion thread on Mozilla forums for more context: https://t.co/iWyPTyGC",null
+1485028837937,,null,"Link to Google's ""IP Address Range Tool"" needs to be updated","By going to the Experiments Dashboard -> Settings -> IP Filtering the user is given a link to Google's tool to build a regex IP range.
+
+It currently links to http://support.google.com/analytics/bin/answer.py?hl=en&answer=55572, but this is incorrect.
+
+It should be:
+
+http://support.google.com/analytics/bin/answer.py?hl=en&answer=1034771
+",null
+2878296914248,,null,Mozilla Nightly js conflict (possibly),"Mozilla is reporting some sort of js conflict with their latest version of Firefox Nightly20.0a1.
+See their bug report thread here:
+https://bugzilla.mozilla.org/show_bug.cgi?id=825138
+
+
+email address: bsimon@mozillafoundation.org 
+experiment_id: n/a
+experiment URL: n/a
+browser/OS: Firefox Nightly20.0a1
+
+To Reproduce:
+1. Download FF Nightly version
+http://www.downloadcrew.com/article/22815-firefox_nightly
+
+2. Open firebug or some debugger window
+
+3. Go to URL:
+https://donate.mozilla.org/page/contribute/the-mozilla-story?source=video_misc1
+
+
+Current Result: See screenshot with errors
+
+
+
+",null
+3719859878645,,null,Custom segments only available after refresh,"Custom segments for customers only become available after refreshing. 
+
+Current situation: Platinum customers need to refresh their results page every time they want to view custom segments.
+
+Desired situation: Platinum customers need to refresh their results page only once to view custom segments. After that, custom segments are available automatically when the results of the experiment are viewed.
+
+As example, this occurs at the following experiment (SIXT):
+https://www.optimizely.com/edit#experiment_id=172376534
+",null
+1689868436129,,null,Automatically Remove Spaces from the End of URL in Targeting Conditions,A lot of times clients will copy the URL into targeting from an email or something with a space included. That space causes the targeting condition to fail when the test runs. Automatically remove that space from the end and from the beginning of the URL.,null
+1694832732267,,null,"Preview mode ignores manual activation and just runs the variation code, in some cases this makes it impossible to preview a variation","if the variation is dependent on manual activation mode (for example because it needs to wait for certain elements), preview mode should also wait for either the manual activation call or there should be a button that allows a user to simulate the manual activation call.",null
+3720047286852,,null,Custom segments: geolocation segments don't work,"Second thought: looks like this is not the problem, even with geotargeting on and the geotargeting object available the segment is still not available.
+
+
+When no geolocation targeting conditions are set this object is empty:
+window['optimizely'].data.visitor.location
+
+and any custom visitor segments for geolocation don't work.
+Workaround: creating a dummy experiment with a geolocation targeting condition so that the snippet for that project does have geolocation information.
+
+
+",null
+4257854877053,,null,Segment Targeting conditions shows segments from other projects,"Selecting a segment as a targeting condition (Visitor conditions -> Are in any of these segments) shows segments that are from other projects than in which the experiment is located.
+
+This can be very confusing. For example, the following client has the same segment in two different projects, and they will show up with the same name (see attached screenshot).
+
+https://www.optimizely.com/edit#experiment_id=190851475
+https://www.optimizely.com/dashboard?project_id=188572044&view=SEGMENTS
+
+
+",null
+3980078474914,,null,'Houston we have a problem' when loading dashboard,"Intermittent issue when loading the dashboard. Mike says:
+
+""add another asana ticket that describes what you're seeing and that it appears to be an issue when querying the backend for the visitor count numbers for mongo experiments.""
+
+I've added a screenshot as well, not related to any specific accounts.
+
+Console error:
+
+Failed to load resource https://www.optimizely.com/api/experiments.json?project_ids=24730262&status=Paused%2CRunning
+Failed to load resource https://www.optimizely.com/api/experiments.json?project_ids=24730262&status=Not+started
+",null
+1484280537486,,null,Font Tag Not Being Handled Properly by 'Edit Text',"When you use 'edit text' on a font tag the selector is created incorrectly, it selects a span instead of the font tag.
+Example page http://www.raykhenberg.com/font_test.html
+Try changing the first sentence, the selector is generated wrong. It's actually the selector for the second sentence. So when you make changes to the first sentence, they get applied to the second sentence. Switch between variation 1 and original page and then back to see the changes take effect.",null
+3717140471228,,null,"URL Validator always populates the match condition as ""undefined""","Steps to recreate.
+
+1. Open any experiment or create a new one
+2. Open the targeting dialog and click on the URL validator link
+3. The match condition should be populated with ""undefined"" while the URLs to match is populated with the editor URL.
+
+This worked properly at some point, but a change must have been made that broke it.",null
+1484280537489,,null,Edit HTML doesn't work well with pasted text,It happens if you're typing in the edit html dialog box and the paste something too quickly. Most likely to happen if you're creating an anchor tag and pasting the URL for the link.,null
+1467891393523,,null,Do not use Append/Prepend with Objects,"Appending/Prepending to objects does not work in IE. It also causes the code that comes after the append to not fire. We can still use append for other tags, but should have a special case for objects.",null
+1484280537516,,null,Sign in form doesn't work when you're already signed in,redirect logged-in users from /signin to /dashboard,null
+1484280537531,,null,Content is getting dropped when using edit HTML,"if you replace ""< img ... />"" with ""< img ../>< p>hi</ p>"" then the p is missing",null
+1484280537536,,null,"Images with relative urls don't show up in ""Edit Text""",this happens when site is loaded using the proxy,null
+4245483529518,,null,Add Subscription information to Optly.Account on the Editor Page,"We're running a few experiments on the editor page that check to see if the user in a subscription plan. Our goal is to target non-subscribed users with additional sales messages (e.g. add Pick a Plan to the top of the page, or add a Sales number to the bottom of the editor page). Our experiments are set up but can't run on just non-subscribed users because the Editor page doesn't have the object that we need. The object is currently on the dashboard and the account page. 
+
+Oh, marketing wants to see if we can get this in today to start our new experiment and to fix an existing one. Thanks Jon!",null
+4138899620325,,null,Fix Button label on Manage Collaborators dialog,"Should be ""Invite"" or ""Send Invitation"" since ""Invite"" is not a noun.",null
+3851311236903,,null,Rename experiments from dashboard,so you don't have to load the editor to do it,null
+3851311236906,,null,Use Channel API in dashboard to auto update,"When you have the dashboard open, it should automatically update when the experiments change so you don't have to reload the page. You could call this ""push notifications"" for the dashboard.
+
+Google's channel APi is perfect for this:
+https://developers.google.com/appengine/docs/python/channel/overview
+
+Note to the developer:
+Channel API is not good at transporting lots of data. So instead of sending up the data using channel, just send a message to the client to refresh its data. Then client will make an AJAX call for the actual data.",null
+3851311236900,,null,Bulk select and modify experiments from dashboard,"This wasn't requested by any customers as far as I know, but it's something I've wanted to do for a long time.
+
+Can be accomplished by adding checkboxes to the left of each experiment row and ",null
+3811864731904,,2013-06-30,"Mobile view option in ""Editor Settings"" disappears for non-platinum customers","Currently, the checkbox for ""Load mobile version of pages"" is hidden for accounts that are not platinum. The attached image shows the dialog and what gets hidden.
+
+This is inconsistent with the other features that we have: they're usually grayed out with an upsell message.
+",null
+3790207245994,,null,Videos in guiders,"Jodie emailed me about this a long time ago. Here's his email:
+
+Hey Elliot,
+
+As we discussed it, would be great to figure out a way to get these 'quick reference' videos into the guiders process somewhere. I am not sure where they fit best, but if you want to chat about it and pick a suitable place to test this out I am game. These are the links to the vids. Let me know if when you have some time to chat on this in the next week or so.
+
+Installing the Optimizely Snippet
+http://www.youtube.com/watch?v=JmTXvCt5i_g
+ 
+Creating Experiments in Optimizely
+http://www.youtube.com/watch?v=pJnpNgd-UdY
+
+Cheers,
+Jodie
+",null
+3790207245998,,2013-06-28,Image editing in experiment editor (Picozu),"We currently have an image editor built into the editor that was never released. You can activate it by adding your account to a whitelist (ask Elliot about this).
+
+We decided not to release the feature b/c the image editor we chose was severely limited: 
+http://www.aviary.com/
+
+I propose we use this one instead because it has more features and may be more useful: http://www.picozu.com/editor",null
+2892521591660,,null,Submit Support Requests from Within App,"In order to get relevant information about the client, their plan level, experiment data it would be great to have a button right inside the Optimizely app that lets them send a support request.
+
+We should be able to use the desk.com API to create this. http://dev.desk.com/docs/api/interactions/create
+
+Notes:
+- Python multipass example code @ https://github.com/assistly/multipass-examples",null
+2818297219422,,null,Results email - quantity of visitors and conversions much less than shown in results page,,null
+2832394134568,,null,Verify that pricing.py can handle o-app/Recurly downtime properly,"See https://docs.recurly.com/push-notifications.
+
+""Push notifications are not actionable on their own and should not be used for critical functions like provisioning accounts. Use the receipt of a push notification to trigger and API query to validate the push notification details against the current API data.
+
+""Recurly push notifications may be retried or sent multiple times if the delivery status is considered failed. Please make sure your endpoint can receive the same notification multiple times and in the wrong order.""
+
+If Recurly went down/failed to push a notification/pushed it after the account had changed again, would our code do the right thing?
+
+https://github.com/optimizely/optimizely/blob/devel/src/www/handlers/pricing.py",null
+2178265656081,,null,Make it easier to export tests directly from Selenium IDE and run without modification,"Some of the things that would be nice to fix:
+
+Allow running of tests from generated modules without copy/paste
+Replace refs to specific exps/exp ids with string interpolation (%s) -> probably requires metaprogramming/macros (e.g. inspect)
+Replace hardcoded timeouts with variable -> ditto
+Improve handling of self.fail and friends to correctly log where they were called",null
+2001332482181,,null,Single project accounts should be marked as an archived account if all experiments are archived,,null
+1990108413826,,null,Make Views more explicit or remove it,"Projects view on the left side gives the impression that everything is reachable via there. I didn't expect to find archived experiments of the current project through the Views button. ""Don't make me think"" principle, navigation should be intuitive, user shouldn't have to look around to see which way he/she should go. 
+",null
+1841405655238,,null,Improve Admin Dashboard,"Add profile pages for each client. The profile pages should include the information found here: https://docs.google.com/a/optimizely.com/document/d/1m7BzXkc_nJOJHPVRXt6QaP_du8PA1Y1PqTGhUVyn8s8/edit as much as possible.
+",null
+1635601464678,,null,Improve new user signup experience,,null
+1476198491499,,null,Improve insert image ,"allow users to insert image inline vs. absolutely positioned above content
+specify image dimensions",null
+1484280537770,,null,Finish phone tracking Twilio integration (communicate with RocketLawyer about it either),,null
+1484280537383,,null,Allow Users to Automatically Send Tracking Events to Analytics Platforms,Make it an option to turn on GA/KISSmetrics/Omniture tracking automatically for click events in the editor.,null
+1476198491713,,null,Allow variations of the AddThis widget text,"I'm A/B testing a headline in a Wordpress post. Is there any way to allow it so that when I click on the Facebook or Twitter share button from AddThis, the title that loads up in the preview box corresponds to the variation headline that I'm testing (if it's a variation post), and not to the headline of the original post?",null
+1476198491706,,null,Cufon and Optimizely,"Elliot - When a user clicks on a cufon canvas, we can traverse the DOM until we get to a parent element that isn't or and let them replace the HTML here. Then we can run Cufon.replace() on that element to style it.",null
+1476198491643,,null,Automatically Track Revenue for Shopify Clients,"If possible, talk to the people at Shopify about adding revenue tracking code to their pages by default or let their users opt in.
+
+Would be very nice to do automatically.
+
+We have a KB article for how to do this by copying a block of code into Shopify, but ideally that wouldn't be necessary.",null
+1476198491640,,null,DFP integration,"Doubleclick for publishers
+https://www.google.com/intl/en_US/dfp/info/welcome.html
+
+This is only for clacking on ads
+We should find a prototypical case study of a customer who wants this
+",null
+1476198491614,,null,Integrate with CloudFlare,"From John Roberts at Cloudflare:
+http://www.cloudflare.com/docs/app-api.html is the framework for
+account provisioning.
+These are not super detailed; happy to put you directly in touch with
+engineers on our side for a high-bandwidth conversation to answer any
+questions.
+From Steven Kan at Apture: Integration was pretty straightforward. It took one engineer about 1 day of work and 3 days of going back and forth to verify. Customer service has also been pretty straightforward – slightly less effort than dealing with direct publishers because Cloudflare handles most installation issues. In terms of benefits, it’s almost a set it and forget it source of traffic. But it depends on the kinds of publishers you want. We’ve seen a big range – larger sites and a lot of long tail. The largest site I’ve seen is about 20MM monthly PVs. And we are seeing a lot of foreign language sites. All in all our experience has been good enough that I would do it again and I would recommend it.
+Hit me back if you have more questions – especially about the kinds of sites you are looking for and the other acquisition channels you currently use.",null
+1491209923720,,null,Don't Overwrite the Referrer for Omniture SiteCatalyst on Redirects,"Currently for GA integration we manually set the referrer on redirect experiments to the original referrer. We need to do the same thing for SiteCatalyst. More information here:http://www.webmetric.org/white_paper/Redirects_Aliases.pdf
+
+One of our Gold clients will need this done before they can move forward with testing.",null
+1504716900191,,null,500 Error on https://www.optimizely.com/experiment/save for CBS,,null
+1476198491506,,null,Expose CDN refresh status to users in editor,"In the editor, need to notify the user that start/pause and saving an experiment needs to propagate to the CDN, so they need to wait:
+- use verify.js to show them live status (verify downloads js file from S3 and cdn until revision matches latest) - improve verify so it’s more reliable (it sometimes returning false positives)",null
+1476198491518,,null,Load proxied and live pages in editor in parallel,"to speed up the loading process, load both the hosted and live sites in two iframes in parallel
+this will require some code rewriting b/c loader.js expects a specific sequence of messages from innie. that logic will have to be rewritten to allow parallel loading
+",null
+1476198491740,,null,Store Targeting Conditions to Use in Multiple Tests,"Similar to the goals, make the targeting conditions reusable across experiments.",null
+4011987616138,,null,Display message in Account Setting if user isn't Administrator ,"When a user visits 'Account Settings' it would be nice if it displayed a message about them not being an admin so they don't have full access. Instead of just not displaying those features.  Or keep the info/links there but when they click it, it then informs them they need more rights to do anything.   
+
+I have included a screenshot to give a general idea.
+
+Answered at least five or more questions about this in one week.",null
+1476198491842,,null,Research automatically suggesting variations to try,,null
+1476198491861,,null,Wireframes for marketplace,,null
+1484280537247,,null,Translate the Website and KB into multiple languages,,null
+1484280537267,,null,"Make a recommended default variation of ""Just load my page faster"" (i.e. fast.js)","- resize scaled images: a lot of webmasters tend to take a 1mb image and use the height and width tags in the img tag to resize it. in this case, fast.js can send an ajax request to our server which will get the image url, grab&resize it using the metadata from the tag, optimize it using something like pngcrush and return a new url for the image to load from.
+- remove duplicate scripts (i've seen this on a lot of dumb sites where guys copy & paste)
+- take all the css/js, minify, and serve from our servers
+- take any inlined javascript/css and convert it to an external file (this way the browser caches it)
+- convert images to sprites (probably very hard to do on-the-fly correctly)
+- browser-specific changes
+- pre-cache link destinations
+- if page loads slow, prompt the user or be smart about not showing some things",null
+1484280537315,,null,Break Up Results Into Hourly Chunks,"It seems that dividing all the data into 200 equal chunks causes problems for the date range filter because we have to take entire blocks and those tend to overlap hours.
+
+If possible send data in hourly chunks so that the results for the same date range don't change with every refresh for an active experiment.",null
+1484280537407,,null,Add default timezone and default currency,"Jeff - I meant to say:
+Add ""default timezone"" and ""default currency"" at the project level. This could determine what timezone the reports are in and the currency symbol for revenue tracking.",null
+1484280537435,,null,"Add a way to retrigger activation of experiments when the URL's hashcode changes, automatically","(This is for all those AJAXable sites)
+
+http://stackoverflow.com/questions/680785/on-window-location-hash-change
+",null
+1484280537438,,null,"Generalize ""revenue tracking"" to a ""numeric goal type""","Jeff - This is a generalization of my earlier ticket, ""Use revenue tracking goals with specific revenue buckets""
+I think we should have a ""numeric goal type"" that allows for floating point numbers. This would let people 1) track revenue with multiple buckets, and track other numeric stuff, like ""number of invites sent out"" or ""average time spent on pricing page""",null
+1484280537458,,null,Send emails to customers during account maintenance task,"If, (1) they have no experiments set up, (2) they haven't started an experiment, (3) Started an experiment and have statistically significant data waiting.
+
+Meng Xiao - Subgoal 3 is complete.
+Subgoals 1 & 2 are on hold- we haven't decided yet how to proceed. Will discuss with Jodie.",null
+1484280537552,,null,"Expose ability for users to specify use of replaceWith() instead of attr() when using ""change image""","attr(""src"", ""..."") causes a fouc on some sites when the image being replaced is large. replaceWith() alleviates the fouc. also, ordering the variation code so that elements higher on the page are higher in the variation code helps to prevent blocking in variation code execution.
+this wouldn't be the default behavior, but we could explain to users that this can reduce fouc. they'll also have to understand that this breaks any event binding they have for that image.",null
+1484280537596,,null,Block non-flash/non-iframe ads,currently we only block iframe and flash ads but there are also image and text ads,null
+1484280537599,,null,Click goal highlighting styles need updating,"Highlighting style slightly broken on Firefox.
+Would be nice to have a distinct for the currently active selected element in the click goal preview (when there are multiple elements to scroll thru).",null
+1484280537620,,null,Release an analytics backend handling 100% of new experiments,"Release an analytics backend handling 100% of new experiments which will provide up-to-the-minute reporting within 60s of loading an experiment results page 95% of the time, and within 120s 100% of the time.",null
+1484280537638,,null,Unified multi-page/interactive mode experience releases,Unified multi-page/interactive mode experience releases: makes it easier to do funnel experiments,null
+1484280537642,,null,Implement and test new pricing scheme & tier branding,Implement and test new pricing scheme & tier branding and launch one we are happy with,null
+1484280537661,,null,Statistical model we're happy with,"Statistical model we're happy with (don’t handle small amounts of data well, people can shoot themselves in the foot if they pause too early), and a forecasting tool. See this. Dan has access to the beta.",null
+1484280537665,,null,Simplified “my experiments” page,Simplified “my experiments” page that focuses on one project at a time and shows which experiments have interesting results,null
+1484280537759,,null,Internally visible customer Happiness Dashboard in place,,null
+1484280537781,,null,"Integrate salesforce, desk.com, GAE, recurly, and quickbooks","Integrate salesforce, desk.com, GAE, recurly, and quickbooks so that marketing can determine revenue by source and we can account for sales quotas & deferred revenue correctly.",null
+1484280537785,,null,Open source something in JS or Python,,null
+4686245685870,,null,Page elements disappear when switching between variations in experiment,In the experiment https://www.optimizely.com/edit#experiment_id=202503021 the page elements start to disappear one by one when you keep switching back and forth between the original page and variation 1. The experiment doesn't contain any variation code.,null
+4686877969208,,null,Visitor count higher on dashboard,"For https://www.optimizely.com/results?experiment_id=200660945 the visitor count on the results page is lower than the visitor count on the dashboard.
+
+Possibly related to https://app.asana.com/0/1467891393503/2237213795570",null
+4621838633430,,null,Shopify integration,"There seem to be three problems with the shopify integration:
+1: the welcome page contains errors (see sc2)
+2: It seems that there is no snipped being created (see sc1, behind <projec-code>
+3: A user (project id: 202362257, email: ed@laser-labs.com) had problems with loading his account. Whatever he did, he got stuck on the loading... message. We changed the permissions of his shopify accountand that fixed it. I could not reproduce this. 
+
+The affected account(s) by account_id: 202362257
+The affected user(s) by email address:  ed@laser-labs.com)
+
+
+
+
+",null
+2751494287392,,null,"Rearrange before elements with ""."" in selector removes the element and does not re-insert","It looks like the target element of the .insertBefore() doesn't escape the ""."" period with enough ""\"" characters, which causes the re-insert to fail.
+
+I setup a sample experiment that illustrates this.
+
+Account ID: 87796598
+Email: dae-ho@optimizely.com
+Experiment ID: 130971559 (variations #3 and #4 that start with ""Rearranging..."")
+
+To Reproduce (in the Editor):
+1. If no element contains a period in its ID or class, add an ID or class to an element on the page that contains a period. Ex variation code:
+$(""h3"").attr('id','test.12345');
+$(""h3"").addClass('test.12345');
+
+2. Grab an unrelated element, select ""Rearrange"", and attempt to move this new element before the element with the ""."" in the ID/class from step 1.
+
+3. Open the ""Edit Code"" box and add check the .insertBefore( ) argument and see that the period is escaped with only one ""\"". You should also be able to observe if you click back and forth between variations that the detached element no longer exists in the Editor preview.
+
+Current Result: Rearranged element is detached permanently from the page/removed.
+
+Correct Result: Rearranged element should be re-inserted.
+
+Severity estimate: Not very. But perhaps its indicative of other problems with how Rearrange escapes certain characters?
+",null
+2252251077065,,null,Mongo not refreshing new experiments,,null
+2190217585342,,null,Errors when saving and creating experiments,"I'd recommend to reproduce this in an incognito window as it crashes all of optimizely.com until you clear cookies/cache.
+
+For account: miriam@dressesonly.nl
+
+Error when saving an experiment:
+
+Oops! We were unable to process your request.
+Here's what happened:
+Illegal key value: cID/8ro66LiIwA%3D
+
+Similar error when creating an experiment.
+
+It seems to be related to this URL: http://www.dressesonly.nl/jurk-sparkling-black.html
+When I load that URL up in my account I get the same error on save.",null
+2214859766033,,null,Security error loading frame bundle from an HTTPS page in Chrome,A recent security update revealed an inconsistency when loading a script within the editor from SSL secured pages.,null
+2252251077054,,null,Proxy breaks with strange characters are part of the URL,"In particular the utf8 with a checkmark is the problem here, but there may be other characters that pose a problem.",null
+2483824817981,,null,There is an issue with redirects and third party integrations,"The issue is that a redirect experiment will always be included in the ""relavant experiments"" even after the initial redirect. This is different from the other integrations where the request are only made on the experiment page directly.",null
+4687038219113,,null,"homeme.ru (platinum) browser freezes when opening ""edit code""","- Browser freezes because of an unresponsive script when clicking ""edit code""
+- This client has a jquery slider script installed on their page: http://iosscripts.com/iosslider/
+- Problem appears in all browsers that we've tested (Chrome, FF,
+Opera, Safari, IE). Only Firefox can unfreeze and ask to stop our slider's
+script. 
+- I have been able to reproduce this locally with jQuery 1.9.1, 1.6.4 and 1.5.0, so jQuery version is probably not the issue
+
+Account: s.makarov@homeme.ru
+
+Relevant experiments:
+https://www.optimizely.com/edit#experiment_id=198934321 (reported by client)
+https://www.optimizely.com/edit#experiment_id=204839425 (created by me for reproduction)
+
+",null
+4690322012666,,null,Experiment reporting 174% conversion rate on engagement,The following experiment is reporting > 150% conversion rates for the engagement goal when looking at the Internet Explorer browser segment: https://www.optimizely.com/results?experiment_id=199635883&segment_id=173156618&segment_value=ie,null
+4689872547816,,null,Engagement on iPhone,"The engagement event doesn't seem to fire on an iPhone.
+
+The unwanted result can be seen in the following experiment:
+
+Account: emily@inkling.com
+Experiment ID: 199781520
+
+This experiment is specific for iPhones. 
+
+Symptoms:
+
+1. The conversions for the click goals are higher than the engagement conversions. 
+
+2. The event doens't seem to fire on an iPhone (can be seen in the attached console logs retrieved from an iPhone).
+
+Current Result: The engagement event is only sometimes fired on iPhone (it is not clear when it does fire)
+
+Correct Result: The engagement event should always fire, so that the engagement conversion is never higher than a click goal's conversion",null
+2261296047255,,null,Update browser version for CBT,,null
+2303334217269,,2012-10-30,Customers signing up after having canceled see inaccurate usage numbers (carry over from prior to resubscribing),,null
+2183291511244,,null,optimizelyPreview cookie gets too large,Consider disabling this functionality since it causes more problems than it's worth,null
+2237213795557,,null,"Substring match is ignoring ""www"" in the URL validator.",This behavior differs from the documentation and is counter intuitive.,null
+2233801915289,,null,GA integration affects campaign source information,"Account: gklein@nativeremedies.com
+Experiment: 125109120
+
+Google ""native remedies"" and click on paid ad. Goes to www.nativeremedies.com
+
+With integration turned on:
+
+campaign source: google
+campaign medium: organic
+campaign name: (organic)
+
+Turned off:
+
+campaign source: GGL
+campaign medium: PPC
+campaign name: Google Main
+
+See attachment.",null
+2238124715427,,null,Merge accounts,"All accounts @willhaben.at should become a part of the Gold admin account 121882033.
+
+I think Tyler mentioned creating a handler for this once but I can't remember if he actually made one...",null
+2136141579921,,null,"Some modal dialogs, including Global CSS, jump around","From client: ""typing in the Global CSS modal window, and there's enough content in the textbox to make it scroll vertically, the position of the modal goes nutty if I delete the last line of the content. It realigns properly when I hit Enter again.""
+
+I was able to reproduce this and I'm pretty sure I've seen it in other modal dialogs as well.",null
+2386720502587,,null,Default URL for URL matching has example.com hardcoded?,,null
+2213701797568,,null,Logged in page with snippet loading not-logged in version in editor,"Go to: https://ssl.allegro.pl/NewpaymentsPayUCheckoutInfo.php?pt=t&trans_id=79101038&cod
+
+Log in with:
+user: optimizely_test
+pass: 0FgHFZ4x
+
+Logged in URL: https://ssl.allegro.pl/NewpaymentsPayUCheckoutInfo.php?pt=t&trans_id=79101038&cod=
+
+With editor params: https://ssl.allegro.pl/NewpaymentsPayUCheckoutInfo.php?pt=t&trans_id=79101038&cod=&optimizely_compatibility=false&optimizely_disable=true&optimizely_load_script=%2F%2Fwww.optimizely.com%2Fjs%2Finnie-www-master-918.362549028469980445.js&optimizely_log=false&optimizely_cache_buster=1350670212270
+
+Loads fine without any redirects in normal browser tab. They are using an async version of the snippet. Loads through proxy in editor, giving not-logged-in version of page.",null
+2176096644146,,null,Pricing not displaying correctly when logged in as a platinum customer.,,null
+2762743710758,,null,Preview mode is not executing the variation code for experiment ID 145881939,,null
+2762734743167,,null,Spinning waiting indicator is missing on Preview dialog when snippet is not yet up to date,,null
+3827345611899,,null,Editor loading: can't select elements on page,"When loading URL: www.gfimax.com/trial/remote-management/en/ you can't select any elements on the page, and the blue element highlighting doesn't appear either. All other editor functionality seems to still respond though.
+
+Page does load in iframe, and does respond to editor query parameters. No obvious error messages, apart from this one on their page: Uncaught SyntaxError: Unexpected token < 
+",null
+2183291511246,,null,"manual activation mode doesn't seem to fire any events directly after activating, events are fired on engagement / goals after that and on page reload",,null
+2761620344004,,null,"After login user sees ""Loading..."" but nothing happens","For account: watchsherbet@gmail.com
+Project: 147496416
+
+Was able to reproduce this. Tried looking into permission settings but that didn't seem to resolve anything.",null
+2192799531202,,null,changing the URL for the background property in the edit style dialog converts the URL to all lowercase in the generated variation code,"Some case sensitive URLs break because of this. E.g. www.example.com/Site-Assets/style.css
+becomes www.example.com/site-assets/style.css",null
+2190217585339,,null,"Remove ""debugger;"" code from client/integrator.js (my bad)",,null
+2235483084557,,null,"Trying to ""Move & Resize"" on this one page didn't work","https://whichdraft.com/contract/term-sheet-template/#question-1
+Experiment (try ""Optimizely form""):
+https://www.optimizely.com/edit#experiment_id=126457449
+login: igor@cleverzebo.com
+
+Try Moving and Resizing, then dragging images such as ""Term Sheet Background"" in the upper right or some of the text boxes in the top section. Sometimes they work, sometimes they don't. I can resize the image, but can't move it. Really weird. I showed Mike.
+",null
+2237213795570,,null,Visitor count on the dashboard is way behind actual visitor count from the Results Page,"
+",null
+4025252161571,,null,"Permissions: sometimes permissions are not loaded correctly, or old permissions are loaded","I've seen this twice for two different accounts. Permissions are updated but seem to be ""cached"" and sometimes the old permissions are loaded. This results in random errors on the dashboard. The permissions admin panel shows this as well if you keep clicking 'list users and roles' it'll sometimes display the correct list of permission, sometimes an old list. Almost like it's caching, or not updated on some servers / not replicating...
+
+The AccountToUserRole table in AppEngine datastore viewer for as far as I can tell always displays the right (most recent) results - but this could be coincidental. 
+
+",null
+4091145569059,,2013-03-20,Conflict of Optimizely snippet with Modernizr on Adidas site in IE,"Adidas engineers reported this error:
+
+""We debugged the code and found out that there is an issue in the order of Javascript execution because of which we get a JScript error. When the Modernizr tries to parse through the code elements it is not able to pick up a child element in a particular instance (as the firstchild of that element is null), the reason for this issue is that there seems to be the following script tag that gets added dynamically before the page's HEAD tag.
+
+<SCRIPT type=text/javascript src=""//cdn3.optimizely.com/js/geo.js"" async=""true""></SCRIPT>""
+
+This was causing issues for them on IE on this page: http://discover.adidas.de/storefinder/#/
+
+They wrapped the snippet in an if statement on that page so that it doesn't load for now:
+<script>
+if(document.location.toString().indexOf(""discover.adidas"") == -1) {
+document.write('<script src=""\/\/cdn.optimizely.com\/js\/107098409.js""><\/script>');
+}
+</script>
+",null
+2247904519246,,null,Results page in IE9 does not load data (Use Mongo: true),"Splunk results pages seem to work fine, but results based on Mongo just load the Experiment title and Optimizely top bar, and produce this error message in the IE console:
+SCRIPT5: Access is denied. 
+bundle-www-master-918.362549028469980445.js, line 1827 character 100
+
+",null
+2339796151419,,null,Preview mode not accurately displaying active MVT variations,"When previewing an MVT sometime it just says: ""Not Bucketed"" this is misleading and a source of confusion.
+
+I would almost like to see each section as a row nested under the experiment so you can easily change the combinations.
+",null
+2330215104975,,null,Results page export to csv gives error,"For results page https://www.optimizely.com/results?experiment_id=131851344 clicking on export to csv results in this error:
+
+<type 'exceptions.ValueError'>: list.remove(x): x not in list
+
+account: diane@netdirectmerchants.com",null
+2315675940426,,null,Add Safari 6 to browser options in Targeting,Nick Schlegel from backcountry.com (Platinum) requesting this,null
+2367818657017,,null,"""Error loading your experiments"" for recent experiments from the upper right drop down","Hey Mike, I've seen this come up several times in various accounts so I thought I should at least report it. When you click the ""Experiments"" drop down from the top menu on our website, it will sometimes crapout when trying to load recent experiments and just show, ""Error loading your experiments."" I've noticed it tends to happen on accounts with a lot of projects. You can check ""hford@thinkfinance.com"" as an example.",null
+2380640090615,,null,"Click goals: if goal name has special characters, the goal is sometimes not tracking properly",The special characters (é ç etc.) are carried over to the custom event name and the goal doesn't work anymore.,null
+2380853695545,,null,Segmenting MVT with revenue breaks on the new backend,"When recalculating the stats while unchecking MVT sections, experiment with revenue break because the required time series is not available.
+
+https://www.optimizely.com/results?experiment_id=137131885&beta=true
+",null
+2415349566827,,null,Time zone issues with scheduler maybe daylight savings again.,An Aussie reported some strange stuff.,null
+2448285548428,,null,Strip spaces from CrazyEgg API fields,"
+",null
+2772003342561,,null,"""Preview"" link from Dashboard page does not do anything","To Reproduce:
+1. Go to the Optimizely dashboard after logging into any account with experiments (https://www.optimizely.com/dashboard)
+2. Click on an experiment name in the right section to open the menu
+3. Try to click the ""Preview"" option below ""Edit""
+4. Nothing happens.
+",null
+2991304723207,,2013-01-16,Conflict between Magento's prototype and Optimizely jQuery,"Steps to recreate:
+
+1. Go to https://www.luxup.com/customer/account/create/?optimizely_cache_buster=1357748697884&optimizely_compatibility=false&optimizely_disable=true&optimizely_load_script=https%3A%2F%2Fwww.optimizely.com%2Fjs%2Finnie-www-master-992.364428389301540536.js&optimizely_log=false
+
+2. Try to click on any of the form elements, they are unresponsive.
+
+3. Open the JS console to see the error messages.
+
+Desk Case: https://optimizely.desk.com/agent/case/25092",null
+2712547017021,,null,Page not loading,"http://ultimateautismsolution.com/trial-access.php
+
+Seems to load in FF but not in Chrome, couple of console errors: 
+
+Unsafe JavaScript attempt to access frame with URL https://www.optimizely.com/edit#url=http%3A//ultimateautismsolution.com/trial-access.php from frame with URL http://ultimateautismsolution.com/trial-access-nre.php. The frame requesting access has a protocol of 'http', the frame being accessed has a protocol of 'https'. Protocols must match.
+",null
+2732733133522,,null,Targeting conditions not reseting properly,Need to be sure to hide the condition blocks if no data exists for that given condition.,null
+2690699911160,,null,http://www.zipcar.com/nyc/campaign CSS issue,Loading the page into the editor causes the layout to get all screwed up. Could be a CSS conflict with the editor.,null
+2631875076258,,null,Add scroll bars to traffic allocation and Analytics Integration ,,null
+2992272811016,,null,Uneven Traffic Allocation,"Probably a non-issue, but wanted to have support eng take a quick look.
+
+Account: devadmin@primedia.com
+Experiment: 169322091
+
+Platinum customer is reporting uneven allocation of visitors between variations.
+
+Original page: 18,694
+V1: 15,886
+Traffic allocation at 20% total and 10/10 split
+
+
+",null
+3804485089709,,null,Experiments scheduler: not taking into account user permissions,"Platinum customer reported that an editor can schedule an experiment to start, and it actually starts.
+
+Editor can't pause the experiment after it has been started...",null
+8185738961282,,null,CDN Data from Dogan,,null
+8222159492468,,null,Desk.com and Zendesk tickets from Adrian,,null
+8222159492474,,null,Gather HR data to relate to support response times,,null
+8222159492471,,null,Aggregate QB data for self serve analysis,,null
+8386526381493,,null,check how QB country data is sourced,,null
+8386526381495,,null,,,null
+8222159492477,,null,Meet w/ Glazer and talk about OPT,,null
+8222159492482,,null,send conversation with Walter to APAC,,null
+8293342539564,,null,Pulldown full raw dataset for Desk.com ,,null
+8292931413560,,null,Analyze zendesk data vs HR data,,null
+8222159492485,,null,gather CPM Rates in ASIA,,null
+8293342539596,,null,Make visual representation of time zone hole using everytimezone.com,,null
+8222159492488,,null,BuiltWith Data on Asia,,null
+8293342539569,,null,"Connect with Oliver on legal and tax implications of various locations (Tokyo, Hong Kong, Singapore)",,null
+8222159492491,,null,talk to Jon/ Natarajan to understand costs of offering new currency,,null
+8292931413565,,null,Browser data ( top 10 browser per country etc...),,null
+8386078511103,,null,Refine APAC growth projections. Compare EU growth acceleration post-move to company wide growth acceleration post-move.,,null
+1485028837942,,null,Intermittent issue with Rearrange on edit page,"This issue is pretty weird so you are gonna have to bear with me. It's only appearing on one client page that I know of (www.ifaw.org/united-states/secure/donate/support-ifaws-work) and inconsistently on that page as well. The issue is when you select an element (for example the second paragraph of the text) and choose ""Rearrange"" from the menu. When the issue is present, the draggable box will flash back and forth between the whole page and the dragged element, and the log will fill up with errors. The error is (from memory because the issue is not reproducible now):
+
+Cannot access property click of undefined on line XXX
+The bit of code that triggers it is the following (in js/bundle/edit/inn/rearrange/element.js):
+
+optly.edit.inn.rearrange.Element.prototype.getCursorOffset = function() {
+  return this.overlayElement.data().draggable.offset.click;
+};
+
+When the error appears, the draggable object does not have the offset property. I was able to make it happen in both Firefox and Chrome, and then I couldn't repro it anymore. I'll update this if it occurs again.
+
+Here's the actual error:
+Uncaught TypeError: Cannot read property 'click' of undefined bundle-inner.js:27333
+optly.edit.inn.rearrange.Element.getCursorOffset bundle-inner.js:27333
+optly.edit.inn.rearrange.Rearrange.handleDragStart bundle-inner.js:27496
+optly.Event.fire
+",null
+1476198491764,,null,surveycompare.net doesn't load correctly,Ricky - Still able to recreate this in FF.,null
+1467891393526,,null,Make caringwise.com just work,"Here are the issues they were seeing:
+I was trying to play with our homepage, on the basis that an interesting A/B test would be stripping out all the stuff below the fold and just have a HUGE (probably different) headline and and a HUGE sign-up for free button and the image somewhere.
+To the best of my recollection:
+I clicked on the photo and the resize button, which only scaled to be a small part of the image rather than the whole image scaling.
+I clicked on the headline and the move button. It got really small and then anchored itself towards the bottom of the left column. I could never get it to move again.
+I did mask all the stuff below the fold, but couldn’t move anything over it.
+I could never pick up the try it now button.",null
+2022700090661,,null,Diagnostics report gives no snippet error when using async snippet,,null
+1858105544152,,null,Research: Reduce size of client JS for a large percentage of requests,"Technique #1: split snippet into multiple requests
+Technique #2: Use ESI and a URL regex to figure out whether an experiment is targeted at this page on the server side
+Technique #3: Reduce size of generated client JS
+   - If no active experiments, exclude a lot
+   - If not using feature X, exclude from code
+
+Requirements:
+  User should still be able to preview a paused experiment
+  Pushing to akamai can take up to 5 minutes
+
+
+To investigate bandwidth usage by project ID:
+  1.  general.optimizely.com:2000/   userid: admin
+  2. run this query on a custom time of your choice
+  3. source=""/mnt/akamai/splunk_input/cdn_optimizely_*"" | stats sum(bytes) by project
+  4. paste results into attached spreadsheet",null
+1858105544156,,null,Creating an asynchronous snippet we'll start using as our default,"Things to take into account:
+  Flash of original content
+  Snippet detection on page
+  Make sure failover is rock solid if timeout doesn't work
+
+Here is async code we have given out in the past:
+(Mike just added a API wrapper function in client JS called ""timeout"" which right now just wraps disable.)
+
+<script>
+	
+	(function() {
+	 var projectId = [YOUR PROJECT ID];
+	 var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+	 var scriptTag = document.createElement('script');
+	 scriptTag.type = 'text/javascript';
+	 scriptTag.async = true;
+	 scriptTag.src = protocol + 'cdn.optimizely.com/js/' + projectId + '.js';
+	 var head = document.getElementsByTagName('head')[0];
+	 head.parentNode.insertBefore(scriptTag, head);
+	 })();
+
+	function optimizelyTimeout() {
+	 window.optimizely = window.optimizely || [];
+	 if (!window.optimzely.data) {
+ window.optimizely.push(""disable"");
+	 }
+	}
+
+	setTimeout(optimizelyTimeout, 200);
+
+</script>
+",null
+2251339258301,,null,Test single asynch call vs. split asynch call,,null
+2251339258303,,null,"Check out YSlow, and steve souders' blog (http://stevesouders.com/)",,null
+2251339258307,,null,Propose a solution for splitting paused experiments out,,null
+1858105544154,,null,Increasing the speed with which Akamai delivers the file,"On meeting on 9/11/2012 akamai engineers told us that they could turn off retries when fetching from origin.  We should do this.  We asked them to, but not clear if they have or not.
+
+They also have a timeout of 5s when they request file from our origin.  If this is reduceable, we should try. 
+
+Both of these only switchable via akamai
+",null
+2303378343786,,null,Resolve bandwidth dispute with Akamai,,null
+2303378343797,,null,Sign HTTPS cert contract with Akamai,,null
+2303378343800,,null,Launch asynchronous GEO call for all customers,,null
+2303378343802,,null,Re-save all platinum snippets,,null
+2303378343804,,null,Turn off ESI processing on all snippets,,null
+1858105544158,,null,Systematic way to identify bandwidth hogs,"Probably some kind of splunk saved search that's run periodically, with an alert.  This should send us an email maybe once per week with a report on bandwidth usage total and top users.",null
+2303378343784,,null,Sign contract with Edgecast for failover,,null
+2303378343809,,null,Write new snippets,"Things to include (configs below):
+  - asynch/sync
+  - splitting out HTTP vs HTTPS traffic
+  - splitting out paused/active experiments
+  - splitting dynamic vs static
+  - splitting ESI vs. everything else
+  - (maybe a timing parameter set as well)
+  - no snippet should make more than 3 calls
+  - shorter =  better
+
+
+
+
+
+
+Configurations (from notes on 2012.10.23)
+-------------------------------------------------------------------------------------------------------
+
+Snippets (let's make these as nice looking as possible)
+  
+  Synchronous Gold (1-liner) (for bronze, silver, gold, illegal for platinum)
+  
+    <//cdn.optimizely.com/123.js>
+  
+  Asynchronous Gold (available for bronze, silver, gold, illegal for platinum)
+    - should explicitly serve https vs http on separate domains
+    
+    <async https://cdn.optimizely.com/experiments.js>
+    <async https://cdn.optimizely.com/static.js>
+
+
+
+  Synchronous Legacy Platinum (1-liner) (for platinum, asynch chain-loads GEO)
+    - same as existing snippet (for platinums who don't change)
+    
+    <//cdn.optimizely.com/123.js>
+      <async https://cdn3.optimizely.com/geo.js>
+    
+  Synchronous Platinum (multi-line) (available for platinum, snippet-loads GEO)
+    - should explicitly serve https vs http on separate domains
+
+    <sync https://cdn.optimizely.com/experiments.js>
+    <sync https://cdn.optimizely.com/static.js>
+    <asynch https://cdn3.optimizely.com/geo.js>
+
+  Asynchronous Platinum (available for platinum, snippet-loads GEO)
+    - should explicitly serve https vs http on separate domains
+    
+    <async https://cdn.optimizely.com/experiments.js>
+    <async https://cdn.optimizely.com/static.js>
+    <asynch https://cdn3.optimizely.com/geo.js>
+
+Domains
+
+  cdn.optimizely.com -  (https OK) experiment configs and static content
+  cdn2.optimizely.com - (http only) experiment configs and static content
+  cdn3.optimizely.com - (https OK) GEO/IP (anything that needs ESI)",null
+2303378343813,,null,Educate Sales and Support teams,,null
+2303378343816,,null,Launch new snippets,,null
+1858105544160,,null,Find a way to monitor our download speed globally.  Pingdom?  Something better?,,null
+2303378343791,,null,,,null
+2858374056369,,null,Add hash links to individual jobs,And kill the apply form modal – let the link open in its own page.,null
+3776779623858,,null,Add new photos to about page,,null
+2772875516220,,null,Update about page bios and pics with new people,"Ian needs to be an ""Account Executive""",null
+2733133628912,,null,Add some margin back to the job description's paragraphs,,null
+2522279373891,,null,Url match validator needs a redesign (and the CSS needs to be rewritten),/url_match_validator,null
+3749896539440,,null,Make an HTML template for the dialog boxes,And make all existing dialog boxes use it. This will ensure consistent styling across all dialogs.,null
+2386758153012,,null,Add a test it out CTA to every page,Only target net new organic customers (e.g. those that come from Google who don't already have an account),null
+2331043322870,,null,API docs - consider removing optimizely_preview=true,,null
+2264245010583,,null,Change older forms to use new validation (i.e. not rules),,null
+2264245010579,,null,"Change the ""Contact Sales"" monthly visitors dropdown use Dropkick",,null
+2264245010575,,null,"Fix error style of ""Create Goal"" dialog",,null
+2264245010569,,null,Fix error style of change email/password forms,,null
+2235954562017,,null,Create free trial SEM page,,null
+2212197827463,,null,Certified Partners Page: make map localized to current user's location,,null
+2774451196306,,null,Redesign Account Settings page,"- Usage start date should also have an end date. The ""Last Updated"" date looks like an end date
+- When on the free trial, overages are forgiven but they look like you will owe us if you convert (no one reads the text explaining this)
+- Cancelling/reactivating account flow sucks",null
+2677297390255,,null,Implement custom scroll bars,Specifically so modals and other page elements that scroll independently of the page will have a visual cue that they are scrollable.,null
+2212197827461,,null,Re-align monthly visitors and phone fields,? icon is moving monthly visitors down slightly,null
+2191235684734,,null,Add Steve to the about page.,We still need his bio!,null
+2191235684711,,null,"Add client side validation and error feedback to the contact, affiliate, and partner program forms",Consider Knockout validation? http://ericmbarnard.github.com/Knockout-Validation/,null
+1986046541074,,null,Case Studies Page Mocks,,null
+1992333375306,,null,Import all Posterous posts into WordPress,,null
+1958539987832,,null,Cross Browser Testing,,null
+1988544792232,,null,Edit New team images in funny poses,,null
+1958539987815,,null,Upload new team images to about page,Add funny photos on hover,null
+1958539987834,,null,Link customer logos,"To where? This is TBD.
+
+",null
+1958539987904,,null,Remove Next/Prev buttons on Getting Started Page,,null
+1958539987906,,null,JS-ify the global nav,,null
+1958539987908,,null,"Z-index problem on ""Optimizely For"" dropdowns",,null
+1973372538726,,null,iOS bug: button wraps to the next line,"And on computers. (Breaks on Cristian's Macbook Air in Safari)
+
+Try floating input left, button right, and give the button a set width. Issue is likely caused by different browsers rendering the custom font differently. ",null
+1973372538728,,null,Rewrite About page tooltips to not appear off-screen,,null
+1973372538747,,null,"Redirect Notification Modal has a Green Button, should be gray",Change green button in modal so it has .secondary-button class. ,null
+1984859691534,,null,Fix call-to-action button (New Shade of Green),,null
+2127631608580,,null,Blog needs a new favicon,Use Optimizely favicon. ,null
+2127631608583,,null,CMS-lite for static content,"In order to make it easier to create/push out new marketing materials on the static site without having to go through the testing/deploy process, it might be useful to put up a simple CMS system.
+
+Here's my idea of how to do it pretty quickly: new datastore Entity, new/streamlined template for generic static content (see subtasks for details)",null
+2800615175329,,null,Organize job postings by functional area and location,"It's starting to get confusing. Would be great to only display a subset at one time.
+",null
+4096164497069,,null,"add ""pages"" column to preview pane",or some way to navigate between different pages of a multi-page experiment from preview mode,null
+3743533148999,,null,Rename page in multi-page experiment to blank,"Shouldn't be able to do this. If user deletes the name, then populate it with the page's title.",null
+2918774884404,,null,Multi-Page Targeting Not Updating Properly,"Problem: Adding a page to a multi-page experiment automatically adds that page to targeting. Removing that page removes the targeting condition from the UI, but it persists in the JS file and the experiment still runs on that page when it shouldn't.
+
+Steps to recreate:
+1. Create a multi-page test with 3 pages.
+2. Save and start the test
+3. Delete the third page
+4. Clear all cookies or start a new session
+5. Go directly to the third page.
+
+The test should still be running on that page even though it is not technically in the targeting conditions anymore.
+",null
+2424776938102,,null,Graphics for three exp types,,null
+2472587586556,,null,"Multi-page experiment's ""Editor Settings"" dialog","Pete wanted a screen shot of accessing ""Edit Page"" in the ""Editor Settings"" dialog.
+
+Could you think of a better way to instructing users that they can edit a page's name and URL by clicking on the page tab?",null
+1958539987952,,null,Multipage Targeting Pixel Mocks,,null
+1958539987950,,null,Multipage Targeting Wireframes,,null
+1958539987693,,null,Multipage Experiments UI,,null
+1984859690932,,null,Implementation: Targeting UI,styling changes to match mock ups,null
+2722406269355,,null,Fix click tracking for multi-page experiments,"Currently, tracked elements get highlighted on every page. It's not page specific. 
+
+Make it page specific.",null
+2945843100195,,null,Ability to rearrange existing page tabs,If a user creates the page changes out of order it would be awesome if you could drag and drop the pages in the order you want. Opentable hinted at this.,null
+2062260408272,,null,"Fix ""Edit Code"" flash and disappearing code issue",,null
+2424776938092,,null,Experiment type selection modal,,null
+2465983272026,,null,Rollover states for add(+) and delete (x) buttons,,null
+1976181387140,,null,Partner Program badge,Optimizely Certified Partner Program,null
+1984859690978,,null,Affiliate v1: Accounts + Recurly,,null
+2469181332381,,2012-11-14,Review sample size comparison code & spot check with a few experiments,,null
+2469181332383,,null,,,null
+1999713633434,,2012-11-14,Inference:,,null
+1984859691465,,2012-09-28,Final inference implementation spec,"From 2012.09.26 Sync meeting:
+
+  MX looked into ""PAC"" algorithms (""Probably Approximately Correct"")
+  
+  Currently testing (vs. Frequentist)
+    1. Even-dar (Hoefding limit)
+    2. Minh (empirical Bernstein limit)
+    3. Kalyanakrishnan ""Subset"" multi-armed bandit 
+  
+  All of these are for estimating required sample size.
+  All of these are not purely heuristic
+  
+  By friday: exact spec for inference implementation, including UI.
+",null
+1955875035455,,null,Add Auto Allocation Graph to Results page,,null
+2303334217208,,2012-11-06,Graphical analysis of different algorithms' output for sufficient sample size & includes choice of exact algorithm,,null
+1984859691042,,null,Results Page final pixel mocks,,null
+1999713633420,,null,PRD Auto-allocation,,null
+1984859691461,,null,Allocation Editor final pixel mocks,,null
+1958539987854,,null,Merge Auto-Allocation and Bucketing Chart into Results page,,null
+2303016599673,,null,,,null
+3777577889516,,2013-02-20,Shareable Results doesn't include Segmentation,,null
+2918774884411,,null,Segments Don't Show Conditions for Non-Admins,"Editing an existing segment in the visitor segment tab on the dashboard does not show what the conditions for the segment are.
+
+Steps to recreate:
+
+1. Sign in to an account with segmentation turned on, while not signed in to your admin account.
+2. Create a new segment and define a condition to check for the presence of a cookie
+3. Save the segment
+4. Open the new segment by editing it. 
+
+The conditions don't show up and just asks you to add a new condition.",null
+2787254514598,,null,Launch segmentation for whitelisted customers,"CareerBuilder (Brendan) (83994349)
+Demand Media (Ricky) (1617017)
+Orbitz (Brendan) (113619073) - notified via phone on 12/17/12
+Opentable (Ricky) (51426650) 
+
+Removed from whitelist:
+
+OfficeDepot (Ricky) - they don't have an account yet
+One Kings Lane (Ricky) - they are only Gold level
+",null
+2192955901976,,null,Tests for new functionality,,null
+1984859691063,,null,Segmentation v.1 Final Pixel Mocks,,null
+1958539987892,,null,Icons for Projects page,"Experiments
+Segmentation
+Create Segment
+
+",null
+2035933540974,,null,Remove plus/minuses from the Results Table,,null
+2035933540976,,null,Increase padding in the results table,,null
+2074388690320,,null,Add class to make margin of error smaller in goals tables on results page,As you did within the summary table,null
+2074388690317,,null,Remove header from normal A/B tests in goals tables on results page,Show in MVTs,null
+2035933540986,,null,"Change title from ""Conversion Rate"" to ""Results Summary (Conversion Rate)""",,null
+2035933540988,,null,Increase number of rows shown by default to 5,,null
+2035933540994,,null,Add visitors per variation to table,,null
+2035933540996,,null,Update Selenium tests,,null
+2035933540998,,null,"Fix ""disk usage"" error on staging system and restart staging system",,null
+2139145822241,,null,Reset Results,Figure out if reset results is working and fix if not,null
+2035873004133,,null,Make sure results page works even without beta=true,,null
+2112212219447,,null,Error on load api/info,"This happens once when the page is loaded (on Chrome). I'm not sure what this API call is supposed to do but it's not doing it.
+
+XMLHttpRequest cannot load https://api-local.optimizely.com/v1/info/26593?token=a0365f7c80f75b06730ec1bda7b862cc61bbd255. Origin https://www-local.optimizely.com is not allowed by Access-Control-Allow-Origin.",null
+2035873004144,,null,MVT Experiment type error on Collapse Section,updateCollapsedResults function presumes experiment.results.values_squared[goalId] exists,null
+2035873004149,,null,Performance issues with auto refresh on,,null
+2139145822245,,null,Select segment should not trigger an update unless there are no subsegment values,,null
+2139145822248,,null,Make sure fakedata generator works (subsegments esp),,null
+2202858929286,,null,Fix the table for MVT experiments,,null
+2035873004151,,null,Last Refresh Date/Time is wrong,,null
+2036657940283,,null,Change the goals/graphs styling to match the new mock,,null
+2059847204137,,null,Selenium tests for new features,"
+",null
+2271254262767,,null,"after archived experiments is shown, only archived experiments are updated when project is selected",,null
+2150149212031,,null,Results page update offset for goal scrollto link,,null
+2150149212033,,null,Figure out why subsegments are no longer being logged,,null
+2163135439878,,null,Triple check that conditions don't get dropped in the editor ,,null
+2163135439888,,null,Make sure table isn't broken,,null
+2167916773821,,null,Results page for Draft Experiments,I don't think we have made any decisions on what the results page should look like if the experiment is a Draft. Current draft look is kinda crummy (see attached).,null
+2176171187328,,2012-10-17,"+ image on ""Add Conversion Goal"" is cut off",,null
+2181819282234,,null,"On initial page load, ""Viewing Results for"" is blank. ",See screenshot,null
+2035873004146,,null,Make overview table work with MVT,,null
+2275624829437,,null,Redirect /experiments to /dashboard and update links,,null
+2035933540982,,null,"Make the blue fonts a different shade of blue, and skinnier, to match the mock",,null
+2264540181972,,null,Remove double horizontal rule bug in experiments_menu.html for Archived Experiments. ,"When this menu is visible, there are two horizontal rules that normally surround Run/Pause. It looks like a fix you made to make this work for Segments seems to have created this.  
+
+https://github.com/optimizely/optimizely/blame/segments_for_visitors/src/www/templates/website/experiments/experiment_menu.html
+
+Thanks!
+
+",null
+2206150142197,,null,Take out scrollbars on either subsegments or whole nav or both,"I'm in favor of removing the scrollbar from the nav area and keeping individual section scrollbars, but we at least shouldn't have both",null
+2206150142199,,null,Truncate subsegments with ellipsis in nav,,null
+2192955901980,,null,Segments occasionally don't load subsegments,"This one is kind of hard to reproduce, but when it happens the ""built in"" segments show up as regular segments, with no subsegments. This is because the subsegment map comes back empty. ",null
+2150699526510,,null,Fix geotargeting dropdown in segments dialog,,null
+2035933540978,,null,Add texture to left column on results page,,null
+2035933540984,,null,Fix dropdown arrow on the left side column,,null
+2150149212040,,null,Make sure overview table is not broken,It's not scrolling horizontally,null
+2035933540990,,null,Make segment names human readable,,null
+2035933540992,,null,Don't bolden segment categories when they are selected,,null
+2177093008312,,null,Paused variations should show up grey,,null
+2035933540980,,null,"Add ""Manage"" link next to segments on results page",,null
+2284369073863,,null,Limit custom segments to 10 per account,,null
+2915210303014,,null,"Segmentation: Add ""Are in any of these experiments"" to the list of ""Add visitors based on specific conditions"" for new Segments","Similar to https://app.asana.com/0/1467891393530/2915210303002, but add the ability to add segments based on whether a visitor is in certain experiments.",null
+2915210303002,,null,"Segmentation: Add ""Visited these URLs"" (pageview) to the list of ""Add visitors based on specific conditions"" for New Segments","For multi-page experiments especially, it would be nice to have the ability to create a segment based on the pages that were actually visited.
+
+Jessica Lin (from Carbonite): ""If I run a multi-page test, I want to be able to separate the results by people who saw the test on each of the different pages. For example, if I run a test that affects the Home and Business free trial pages, I want to see if there is a difference in results for people who hit the test on the Home free trial page vs people who hit the test on the Business free trial page. Do the changes make home consumers more likely to purchase, but seem to turn off Business users?""
+
+My own thought: This might be useful to expand this also into segments that identify ""which pages/parts of the multi-page experiment triggered the experiment?""
+",null
+2035526735783,,null,Some additional useful built-in segments,"In a nutshell:  integrate with other analytics/advertising/traffic driving tools and automatically expose segments they use, like
+
+Google Analytics Custom Variables
+MailChimp campaigns*
+Google for Advertisers campaigns
+SiteCatalyst eVars?
+
+
+
+
+
+*from an email from the mailchimp team:
+
+Thanks for the call today.
+
+Google Anlaytics tagging (this is turned on by the MailChimp user when creating a campaign)
+
+Below is a real string for a campaign. The source tag is the list name. The first value in the campaign tag is our campaign ID, the remainder is the campaign subject line. If you know the MailChimp user then with the campaign ID you an associate this with a single campaign. We offer both API key account access as well as OAuth2.
+
+http://blog.mailchimp.com/instagram-integration/?utm_source=MailChimp+Blog+Updates&utm_campaign=5ae61acf71-MAILCHIMP_BLOG_RSS_CMPN&utm_medium=email
+
+To add an email address to a MailChimp list you can use the API call below:
+http://apidocs.mailchimp.com/api/how-to/basic-subscribe.php
+
+You can also use our embedded signup form approach to adding an address to a list. The advantage is that you don't need to send us an API call to make the addition.
+http://kb.mailchimp.com/article/how-can-i-add-my-signup-form-on-my-website
+
+If and when you're interested in capturing the identity of a visitor, you can use our eCommerce360 tracking tags. While it was created originally for eCommerce360, it can be used for any vertical that is interested in tracking individual activities. When this is turned on for a campaign we automatically append two parameters one is the campaign ID tag and the second is the email ID. 
+http://apidocs.mailchimp.com/api/how-to/ecommerce.php
+
+I will discuss with our guys about how we might be able to leverage your event tracking capability to potentially trigger drip campaigns in MailChimp.
+",null
+2918414909145,,null,Apply multiple segments at once,"Add ability to apply more than one segment at a time
+Include TRUE/FALSE options for each segment
+Include AND/OR operators across selected segments",null
+2918414909149,,null,Add AND/OR logic for the list of visitor segment targeting,,null
+4067349432406,,null,Add multi-page button,,null
+3989576691513,,null,Add Link to the Results Page on Dashboard,Take the link to the results page out of the context menu and make it visible in the table. ,null
+3852334924497,,null,Rearrange Variation Tabs,I had a customer who was asking if he could rearrange the variation tabs for organizational purposes in the Optimizely editor.,null
+3004488844874,,2013-03-29,Allow users to sort by Test Start and End Date,"Message from client:
+
+Very simple feature request which will help a ton--allow users to sort by Test Start and End Date. Last Modified Date rarely is an accurate reflection of the last time I actually ran a test. Sorting by End Date will allow people to see what tests they've run and in what succession.",null
+3014705867966,,2013-01-21,Personalization Wireframes Round 1,,null
+2124371273296,,null,Make Experiments Mutually Exclusive,If experiments are set to run on the same page make it possible for the user to specify that if a visitor is included in one test he should be excluded from the other. This would basically do a random distribution between multiple tests before doing a random distribution within a test. Maybe make it possible to define how much traffic each experiment should see.,null
+1984859691409,,null,Personalization Campaign Editor Wireframes,,null
+1984859691411,,null,Personalization Campaign Editor Pixel Mocks,,null
+1984859691413,,null,Results Page Wireframes,,null
+1984859691415,,null,Results Page Pixel Mocks,,null
+1984859691417,,null,PRD for Personalization v1,,null
+1984859691423,,null,Potential Customers for Testing,,null
+3811578463328,,2013-02-04,Prototype for variation targeting,,null
+3904258156183,,null,PCampaigns showing on wrong project,,null
+3904258156185,,null,Refactor experiments API,,null
+3904258156189,,null,Campaign context menu on dashboard,,null
+3904258156191,,null,Campaign type selector,,null
+1984859691242,,null,Product/Marketing PRD,,null
+1984859691445,,null,Case Study Submission Wireframes,,null
+2168160750837,,null,Experiments Library Wireframes,,null
+1984859691448,,null,Open Exp. Pixel Mocks,,null
+1984859691450,,null,Implementation,,null
+2168188999389,,2012-11-06,Capture screenshots programatically,Use crossbrowser's api to take screenshots,null
+2308249007559,,null,Project Comments: Admin Dashboard,"Message from Team Asana:
+
+This task exists because we have moved project notes into a new field under the project name. This change simplifies the right pane and makes sure that the important project details are visible at all times.  As part of this improvement, we no longer support project comments in the right pane.
+
+All existing project comments have been moved to this task, so you can still access them.
+
+For more details see this blog: http://help.asana.com/customer/portal/articles/812991-project-notes-move-to-the-center-pane.
+
+Please contact support (http://help.asana.com/customer/portal/emails/new) if you have any questions or concerns.
+
+Love,
+Team Asana",null
+1984859691253,,null,Create admin handler to merge/move projects between accounts,,null
+2049633730479,,null,Create an option to change the source property in GAE,This is necessary when affiliates tell us that they referred a client but did not use their link. ,null
+2050796102551,,null,Add an option to change the account email,,null
+2050796102553,,null,Pull in Recurly invoice data,,null
+2063343697850,,null,Add an option to change the overage cost,,null
+2063343697846,,null,Add an option to change the visitor limit,,null
+2063343697842,,null,Add an option to change the account manager,,null
+1984859691264,,null,,,null
+1963908856596,,2013-03-29,Add pause/start  button to results page.,,null
+3745763531183,,2013-03-29,Add Custom Metrics after conversion rate on results page,"""Would it be possible to add custom metrics to conversion goals? Ideally, [my team would] like to be able to define custom metrics included as additional columns after conversion rate, such as conversions * .93 * 435.99. I don't know all the numbers involved, but they stand in for assumptions on the value of each conversion to us. Currently, they'd have to calculate those metrics every time they viewed a new report, but ideally they would want to have it automatically populate with the report.""
+
+jlin@carbonite.com requested this (Platinum).",null
+3777522060549,,2013-02-08,Make simple UI changes to Results page,"Overall data table:
+- if no revenue tracking, hide that column
+
+Individual goals' tables:
+- make visitors it's own column
+- combine conversions and conversion rate (% w/ # in paren; binary only for now; simply label ""conversion rate"" or even ""conversion"")
+- move margin of error to hover state similar to tooltip for box and whiskers plot
+- add revenue and revenue per visitor columns to the far right
+- stretch goal: add toggle for ""Success Metric"" to calculate stats on conversion rate or RPV
+
+",null
+3012701372144,,2013-03-29,archiving/hiding goals in results,"From Customer:
+
+I'd like to clean up my goals to what I measure now. When I started, i measured different goals but have adjusted to new ones. So I'd like them not to show up, but not be deleted. So basically an ""Archive"" option would be fantastic.
+",null
+2827626722083,,2013-03-29,search goals by keyword,"FROM CUSTOMER:
+
+From: ""Kokot, Therese"" <tkokot@cars.com>
+Thanks again for all your help with our recent experiment Ricky.
+
+I have a suggestion for an enhancement to Optimizely. When you are in ""Set Up Goals"", it would be great to do a keyword search for goals that have been created.
+
+Therese
+",null
+1878668922145,,null,Add Ability to Collapse/Expand all Goals on Results Page,Wanted by Jason Worden,null
+1876791412703,,null,Track Clicks... menu should have option to Add to Existing Click Goal,"From the Editor using ""Track Clicks..."" you can only ""Create a New Click Goal"" or confirm a click is tracking on an existing goal. It would be nice if we could have the option to add a Click Goal to an existing goal from this ""Track Clicks..."" menu in the Editor.
+
+Example: lump clicks of new elements on a variation page into the same goal as clicks of old elements on the original page. It is currently not intuitive to link new elements with old elements if they aren't using the same selector, especially since the Goal Editor only shows the original variation.",null
+1484280537699,,null,Built-in social “saved goals” for Facebook / Twitter / Google Plus click tracking,,null
+2636291610597,,null,Being Able to tag Custom Events With Extra Information Such as Categories,"Carbonite (Platinum) would like the ability to push Custom Events to indicate whether a specific product was purchased, but also wanted to be able to group these product custom events into Categories (such as Home vs. Business) and track conversion rates for Categories. This might be loosely related to trying to piggyback more information to the Revenue goal (such as number of products sold).",null
+2635746634501,,null,Tracking Form Submit as an Optimizely Supported Goal,"Customers often would like the ability to track a form submission event (and not just a ""mousedown"" on the Submit button so it includes ""Enter"" key submissions as well). This has come up numerous times and if it was technically feasible, would be really useful. Even an accepted cludgy workaround that TAMs could implement would be helpful. Binding or .on()'ing to the ""submit"" action a window.optimizely.push('trackEvent') to the Event Handler function usually doesn't work because the next page load will occur too fast.",null
+1484280537336,,null,Way to count if a goal is triggered multiple times?,"Meng Xiao - This is doable with the Splunk framework, but it's quite inefficient
+(better on Splunk 4.3, but I think there are some migration headaches with Splunk). Eric is including built-in capacity to handle this in the new
+backend setup, so I think we'll be waiting until that's ready.",null
+1484280537396,,2013-03-29,Use revenue tracking goals with specific revenue buckets,"Suppose I'm a consulting implementing revenue tracking for two different clients. I'd need the ability to track their revenue separately. However, it is associated with the account currently?
+
+Or, suppose I'm a company with a few different product lines, and I want to be able to track revenue by product. I'd want to do something like:
+
+optimizely.push([""trackEvent"", ""product1"", price]) // associated with revenue just for this product
+optimizely.push([""trackEvent"", ""totalRevenue"", price]) // associated with a total revenue goal",null
+1484280537350,,2013-03-29,Add new goal types,"Metrics we might consider adding:
+
+New Customer Acquisition
+Average Order Value
+Revenue Per Session
+Add to Cart
+Cart Abandon
+Bounce Rate
+Time on Page
+
+Contact lkuperman@bidz.com when/if any of these get done.",null
+1618395368398,,null,"@Optimizely Please fix the interactions for the ""Add a goal"" menu.Adding multiple goals that already exist is painfully slow & frustrating","https://optimizely.desk.com/agent/case/16757
+@Optimizely Please fix the interactions for the ""Add a goal"" menu.
+
+Adding multiple goals that already exist is painfully slow & frustrating",null
+1988020913579,,null,PRD for Goals v3,,null
+3951620546560,,2013-02-08,Implement revenue tracking goals on Optimizely.com ,"Please attach the revenue amounts below for Month-to-month / 1-yr / 2-yr.
+
+Bronze: $19 / $204 / $168
+Silver: $79 / $852 / $708
+Gold: $399 / $4,308 / $3,588",null
+5047296290379,,2013-04-16,[post] Testing Theory: Channel Factors,Basic premise is giving people clear next steps to complete an action will increase the chances they follow through (especially when that action takes place outside of the website).,null
+2733133628914,,null,Blog post about creating tests from a UX perspective,"This article is a good example of that: http://econsultancy.com/us/blog/11286-q-a-sarah-chambers-of-radley-and-co-on-conversion-rate-optimisation
+
+Look into basing it off of our Help/Support link test, which was created from a UX perspective (but may lack impact from not affecting bottom line or conversions).
+
+Cara's advice:
+1. Background: Please include a bit of background about your company, Why did you decide to use Optimizely?
+
+2. Challenge: A description of the problem or question you had that you wanted to solve through testing.
+
+3. Hypothesis: Explain the thinking behind the test , what did you think would happen?
+
+4. Solution: How did Optimizely help you solve this challenge?
+Screen shots of the original and variant - please upload attach both
+Screen shot of the results and a short sentence explaining them
+
+5. Conclusion: What are your key takeaways from this moving forward?
+",null
+2370493067464,,null,Write another blog post,,null
+2370493067488,,null,Add subscribe functionality to blog,,null
+2235954562041,,null,Write blog post about good defaults,,null
+3790207245998,,2013-06-28,Image editing in experiment editor (Picozu),"We currently have an image editor built into the editor that was never released. You can activate it by adding your account to a whitelist (ask Elliot about this).
+
+We decided not to release the feature b/c the image editor we chose was severely limited: 
+http://www.aviary.com/
+
+I propose we use this one instead because it has more features and may be more useful: http://www.picozu.com/editor",null
+1484280537695,,null,Integrate with CrazyEgg and ClickTale,,null
+1484280537721,,null,Integrate with ChartBeat,,null
+2237213795585,,2013-01-31,BlueKai,,null
+2237213795587,,null,Comscore,"
+",null
+2380853695557,,null,Gigya,,null
+2483824817941,,null,BrightTag,"Besides tag management, they appear to have server to server event processing that we could integrate with. Two known clients are orbitz.com and cars.com.",null
+2380853695559,,null,Jirafe,,null
+2760641897244,,null,MailChimp,,null
+2483824817939,,null,Feng-GUI,"They use an algorithm to predict where a user will look given a particular image. This is interesting, pre-test heatmapping. Not sure how it will be received or if it's worth pursuing.",null
+2808681003903,,2013-02-11,"Help ""?"" in Manage Collaborators dialog lists descriptions of roles for admin, proj owner, and editor. Editor should say for platinum only, viewer should also be included and noted to be for platinum only","See Attached Screenshot. The tool-tip presented to a Gold client is inconsistent with what is being said in the KB article, http://support.optimizely.com/customer/portal/articles/865253-managing-project-collaborators-with-user-roles",null
+2750462794257,,null,new unsubscribed users can use 'manage collaborators' feature as well as adding new projects,"this poses a problem if they later try to subscribe for a bronze account since they should not have more than one project or one collaborator
+
+More details (from https://app.asana.com/0/2466684424828/2466684424828):
+- User signs up for trial
+- Trial ends (i.e., user never pays us money)
+- User can still manage (e.g., add/remove) collaborators and add new projects to their account
+- User upgrades to bronze
+- User's account still has ability to manage collaborators and add projects (as well as retains collaborators and projects added before downgrade) even though they shouldn't have access to this?  << not 100% sure this is correct",null
+2046771390766,,null,Add admin subscription control to new user management dashboard.,Some of our enterprise clients have LOTS of users. Admins should have the ability to control user email preferences.,null
+2625951791912,,null,Prompt for designating Admin,"Copy should be:
+You are about to give [first name last name or email if no name] Administrator privileges for <b>all</b> projects.
+[Cancel] [OK]",null
+2082217509472,,null,Final Mocks for User Permissions,,null
+2625951791919,,null,Prompt for removing collaborator,"Copy should be:
+You are about to remove [first name last name or email if no name] from this project.
+[Cancel] [OK]",null
+2927254267469,,null,Add User Roles to the Pricing page,"URL: https://www.optimizely.com/pricing
+
+Add ""Role-based permissions"" in it's own row after ""Unlimited user accounts"" for Platinum only. (There will be blank cells for Bronze, Silver, and Gold.)
+
+While you're in there, can you please also update the following:
+- swap ""Staging server support"" w/ what is in cell below it
+- ""Account manager"" >> ""Dedicated account manager"" and move to before Cross-browser testing (Plat)
+- Remove ""Uptime monitoring"" completely (everything shifts up)
+- ""Multi-page testing"" >> ""Multi-page funnel testing"" (Gold/Plat)
+- ""Mobile testing"" >> ""Mobile website testing"" (Plat)
+
+Thanks!",null
+2679038587849,,2012-12-07,Screen shots of UI,"For our announcement of User Roles, we'd like to include screen shots of the UI in the KB article and the blog post. Can you take shots of how to add a new user from the dashboard and assigning users each role? 
+
+Our sample use case is a director of marketing named Oscar Optimizer of widgets.com adding a data analyst as a Viewer. Let me know if you need any more info. ",null
+1988020913626,,null,Write User Permissions PRD,,null
+2625951791923,,null,Prompt for changing Admin to other role,"Copy should be:
+You are about to remove [first name last name or email if no name] as an Administrator for <b>all</b> other projects.
+[Cancel] [OK]",null
+2305165866025,,null,Complete PRD v2,,null
+2305165866028,,null,Complete Eng Design Doc,,null
+2305165866031,,null,"Changes to ""remove user"" confirmation prompt","1) Add ""Warning"" headline in bold.
+
+2) Copy should read ""You are about to remove the user ""{name or email if not name}"" from this project.
+
+3) Button order should be reversed (""OK"" on left, ""Cancel"" on right) since it's too easy to just click the button on the right. Up to Tommy whether to give the Cancel button primary (color) treatment.
+",null
+2608943513407,,null,Tooltip copy should be left-aligned and have more space between roles,,null
+2608943513410,,null,Don't require link to show projects,"Just show all projects for admins and default to current project checked and others not checked.
+
+Check boxes could be larger and should be vertically alighted w/ project names",null
+2622275329244,,null,Add confirmation dialog upon role changes,"copy should be ""[email address] is now a [role]""",null
+2622275329247,,null,Comment out Name column in Manage Collaborators modal,"To be brought back once users have ability to edit their names in account settings
+",null
+2622275329251,,null,Comment out First Name/Last Name in invite portion of modal,"To be brought back once we auto-populate names when email known
+",null
+2608943513413,,null,"""Manage Collaborators"" modal loads weirdly",I see Save and Cancel buttons that switch to Done,null
+2608943513419,,null,Role tooltip is cut off / copy is missing,,null
+2608943513427,,null,Changes to settings menu,"1) Change button copy to be ""Project Settings""
+
+2) SUGGESTION: Change order to be ""Rename Project"" followed by ""Manage Collaborators"" followed by ""Archive Project"" (no need for a line between these three items)",null
+2608943513431,,null,Blue font on Manage Collaborators modal looks like hyperlinks,"Not sure if we use this elsewhere, but the blue font used for ""Email Address,"" ""Name,"" and ""Role"" kinda makes the headings like hyperlinks.",null
+2305165866016,,null,Complete PRD,,null
+2315136232784,,null,"Document with ""script"" for different user levels","Should have list of questions or tasks for each different user ""level"" (e.g. new user, experienced user, etc.)
+
+Should specify a desired number of users
+
+Should specify what ""output"" will look like
+
+Should specify equipment setup",null
+2315136232787,,null,List of experienced users to run tests with,,null
+2315136232790,,null,Mechanism for getting new users,,null
+2315136232792,,null,Schedule support question run through (2hr),,null
+2418369991714,,null,Send out usability testing intro email to team,,null
+2418369991719,,null,Design topbar for notifications,,null
+2418369991727,,null,Set up interviews with team,,null
+2418369991743,,null,Investigate Inspectlet and Clicktale,,null
+2418369991751,,null,Talk to Ricky/Eddie re: existing interested customers,"And if they don't know of any, can we start asking? ",null
+2418369991716,,null,Get gift cards and craft beer,$75 for Amazon or AMEX/Visa,null
+2418369991725,,null,Code interest solicitation interface,Target by geolocation and plan type,null
+2418369991739,,null,Set up testing computer,,null
+2418369991745,,null,Write form e-mails,,null
+2418369991753,,null,Write stock scripts,,null
+3763859070438,,2013-01-31,Flip Webinar signup dates at 11.15 instead of midnight,,null
+2606958654809,,null,Lay out webinar page,"Copy: Title: Live Optimizely Walkthrough
+
+One Sentence: Click on the date that works for you to confirm your spot at a free 45-minute walkthrough of Optimizely’s website testing platform. 
+
+Value in Bullet Points: 
+Top three reasons to attend this live demo: 
+1. It’s a personalized demo that covers building the test to interpreting the results and all the mind-blowing features in between.  
+2. Have your personal inquiries answered by a real Optimizely expert at the end of the demo. 
+3. You will accelerate your website optimization efforts and get excited about the immediate impacts testing with Optimizely can have on your website. ",null
+2606958654813,,null,,,null
+2606958654815,,null,,,null
+2606958654817,,null,,,null
+2606958654819,,null,,,null
+2606958654821,,null,,,null
+2606958654823,,null,,,null
+2606958654825,,null,,,null
+2606958654827,,null,,,null
+2606958654829,,null,,,null
+2606958654831,,null,,,null
+2606958654833,,null,,,null
+2606958654835,,null,,,null
+2606958654837,,null,,,null
+1601312337661,,null,Mobile Site/View for Results,"@ContactZilla (8/27/2012 11:24PM): Could really do with a mobile interface to @optimizely nothing complicated. Just basic stats on a current experiment. ???
+
+11/14/2012 update: Mobile viewing of the new website design's results page sounds like it's painful for users
+",null
+2689558479705,,null,,please add a note and then mark as complete,null
+1476198491755,,2013-06-28,Estimate how long an experiment will take,"From Richard Farr: It would be nice to have some kind of grid that estimates days needed for the test to get to 95% CI based on true conversion rate of..... X% and Y% - (variables I can input)
+
+Dan - Can use similar logic to: https://www.google.com/analytics/siteopt/siteopt/help/calculator.html",null
+1468146288904,,null,Add stat info to exported results CSV,"add the following information to the exported CSV:
+-which variation/combination is the baseline -each variation/combination's chance to beat baseline -percentage improvement over baseline
+need to calculate",null
+4123553404370,,null,create report showing total age from lead to closed opportunity,,null
+2679499639849,,null,diagram lead->opty flow,,null
+2679499639851,,null,setup data.com for accounts,,null
+2682677006694,,null,evaluate lead/opty fields,,null
+2682677006696,,2013-03-08,setup record types for opties,"We want to create a few record types on Opportunities for various types of deals that we would track. The first set of 2 should be for ""Enterprise"" vs ""Self-Serve"" ",null
+2682677006698,,null,help tips on custom fields,,null
+2682677006700,,null,create AE security profile,,null
+2682677006702,,null,create SDR security profile,,null
+2682677006704,,null,restrict sysadmin access,,null
+2682677006706,,null,account data clean-up,,null
+2682677006708,,null,opty data clean up,,null
+2682677006710,,null,go through #featurerequest tag in chatter,,null
+2707795427125,,null,add dashboard snapshot to track changes in pipe from 1st to last of month,,null
+2761982578156,,null,leads by create date to get a sense of inbound volume,,null
+2828280378042,,null,how to handle leads from same company in different queues,,null
+2848150178930,,null,shortcut buttons for logging activities,,null
+2991509877616,,null,,,null
+2704350246841,,null,Test pydoc and jsdoc,"jsdoc is relatively easy to get up and running
+  - install jsdoc2 (http://code.google.com/p/jsdoc-toolkit/)/3 (https://github.com/jsdoc3/jsdoc)
+  - run command to generate docs
+* Many errors in documentation - invalid/required tags etc
+* Takes a really long time to run
+
+pydoc fails on importing gae stuff (webob)
+  - alternative sphinx (+ readthedocs)
+
+Results:
+https://docs.google.com/a/optimizely.com/document/d/1dUEHchuinGk1Q_CShNeYLvpVLPxnNmQ80b2hks-fh7I/edit#
+",null
+2722357643069,,2012-12-12,Compare/contrast jsdoc2/3,"jsdoc3 is prettier and a little easier to use, functionality is equivalent",null
+2679734083542,,null,Code review process,,null
+2679734083334,,null,Design::Engineering interface,,null
+2679734083312,,null,High-level documentation,"Table of Cotent for Documentation:
+https://docs.google.com/a/optimizely.com/document/d/1RzaOGVJlpE0C1xojXE0zDvS-rQv_E_zXQqk17mnrYMk/edit
+
+Existing Documentation:
+https://docs.google.com/a/optimizely.com/document/d/19jCASWq_Ri14KXWJLnwXzJybWk428Pe4ovaue1d_vu8/edit
+",null
+2679734083393,,null,Knowledge transfer,,null
+2679734083330,,null,Monitoring & crisis response,,null
+2679734083315,,null,New engineer onboarding,,null
+2679734083357,,null,On-call practices,,null
+2679734083337,,null,Recruiting,,null
+2679734083309,,null,Reliability & scaling,,null
+2679734083327,,null,Security,,null
+2679734083324,,null,Testing,,null
+16088894664726,,2014-09-22,Academy Activities for Onboarding,,null
+2790541033714,,null,Dan/Pete Optimizely Overview,,null
+2790541033716,,null,In-depth product demo with someone from sales team,,null
+2790541033720,,null,Have one-on-ones,"At least 1 person from each, who has been at Optimizely for more than 3 months. Aim to get an understanding of how these teams work with each other and engineering.
+",null
+2790541033718,,null,Shadow support,,null
+2790541033777,,null,Brush-up on systems/frameworks that we're using,,null
+2790541033722,,null,Check out engineering overview docs,,null
+2790541033807,,null,Check out our coding conventions,,null
+2790541033732,,null,Meeting with an engineer about client.js,The concepts listed in the subtasks should be understood.,null
+2790541033737,,null,Meeting with an engineer about bundle.js,"The concepts listed as subtasks should be understood.
+",null
+2790541033730,,null,Meeting with a back-end engineer about our back-end architecture,"
+",null
+2790541033728,,null,Fix a bug,,null
+2790541033767,,null,Write a test for it,,null
+2790541033771,,null,Learn deploying a custom version to GAE from an engineer,"
+",null
+2790541033769,,null,Improve the onboarding project/tasks/documentation,,null
+2790541033809,,null,Setup,"Consult to the wiki for the subtasks below.
+",null
+2790541033843,,null,,,null
+2796871278583,,2013-01-15,Create new SDR incentive structure,,null
+2796871278587,,null,"Setup ""film room"" for recorded demo review",,null
+2796871278593,,null,Account records cleaned in SFDC to get accurate list of platinum clients by region and industry,,null
+2796871278597,,2013-01-03,Formal Chatter training to evaluate it as a team collaboration platform,,null
+2796871278606,,null,Post-sale handoff to TAM process,,null
+2796871278609,,null,Pumping up the TAM Kickoff call,,null
+2796871278613,,null,Defining right structure for the TAM role in the pre-sales cycle,,null
+2796871278615,,null,"Release schedule, notifications, training",,null
+2990463699606,,2013-01-17,Send detailed Status Page Wireframe to J Dobbie,,null
+2875486869549,,2013-01-04,Status Page Wireframe,,null
+2798118525296,,2013-01-02,Define content for customer-facing Optimizely status dashboard,"PRD: https://docs.google.com/a/optimizely.com/document/d/1ISudwU4ZiVgXkFcOdm3aB1M3Ew2FEYAaGxB8ob5X5HM/edit
+",null
+2798118525299,,null,Status dashboard mockup,PRD: https://docs.google.com/a/optimizely.com/document/d/1ISudwU4ZiVgXkFcOdm3aB1M3Ew2FEYAaGxB8ob5X5HM/edit,null
+2801943331964,,null,,,null
+2826934830644,,null,Engage lawyers,,null
+2826934830646,,null,"Determine how financial transactions will be handled (by US, locally or service provider)",,null
+2826934830648,,null,Incorporation checklist developed by lawyers,,null
+2826934830650,,null,Determine how much to fund foreign entity in dollars and # shares,,null
+2826934830652,,null,Business/sales model type - revenue recognized locally or US?  Marketing representative (disclosed agent working for US entity) or Commissionaire (undisclosed agent),,null
+2826934830654,,null,Determine who will be directors for the entity,,null
+2826934830656,,null,,,null
+2956615646064,,null,consolidate cookie.js files,"There are two files that do essentially the same thing (I think):
+/src/www/js/client/cookie.js
+/src/www/js/preview/cookie.js
+
+One of the files should be moved to ""shared"" (probably client/cookie.js) and the other one removed.",null
+3792938966875,,2013-01-31,Check what the max bandwidth available to instances is,,null
+3792938966877,,null,,,null
+2990050044848,,null,Send steve Vectorized version of optimizely logo,,null
+2760209155474,,null,Customer Feedback,"COMMENT FROM USER:
+
+From: alix.george@holidayextras.com
+Hi there,
+
+Just a general inquiry, but does Optimizely have any plans on the road map regarding collecting customer feedback? 
+
+Currently we use Optimizely to set-up, edit and run our split-tests, but although we've got a wealth of quantifiable data, the value of coupling this with qualitative data would be huge.
+
+There are many companies who offer this service, but it'd benefit your customers if there was a capability to, not only test different variations across the Optimizely platform, but link up the data collected with contextual information about the UX, any friction, etc.
+
+Alix
+",null
+3988441144321,,null,Change 10 year cookie to 2 year cookie,A german client has requested this change in order to be in conformance with German law.,null
+3754496513644,,2013-03-29,"Experiments scheduler: Date picker bug 2: when opening the scheduled dates overview dialog box, the scheduled dates are another day behind than the date already shown in bug 1","Please read ""Date picker bug 1"" first. That results in a scheduled date that's 1 day behind the date that was being picked.
+
+If you open the scheduled dates dialog box again (see attached screenshot scheduler-button.png)  the date is another day behind the date that was first confimed.
+
+Suppose February 22nd 10.00 am was confirmed to be scheduled.
+Then it will not show February 21st 10.00 am as scheduled.
+
+As far as I have been able to test, the 22nd of February is still the actual date that the event is fired.",null
+3752554900254,,2013-03-29,Experiments scheduler: Date picker bug 1: actual scheduled date is one day behind the date that is being picked,"Reproduction path:
+
+- On an experiment click edit.
+- click Options -> Scheduler
+- Select 'revise schedule' to select new dates
+- Select 'Scheduled start' 
+- Select February 20th 10.00 am (see attached screenshot1)
+- Click Apply
+
+Result: Scheduled for February 19th 10.00 am (see attached screenshot2)
+Expected results: Scheduled for February 20th 10.00 am
+
+- Also occurs for 'Scheduled stop'
+- I tested which date is actually used for the starting and stopping of the experiment (the selected date or the confirmed date). I can confirm that the confirmation date (screenshot2) is the date on which the event is fired.",null
+4045030944946,,null,set up skeleton flow,,null
+4045030944948,,null,brainstorm metrics to track with ricky and ryan,,null
+4045030944979,,null,add preview text to email template,,null
+4045030944981,,null,look into a/b testing emails in marketo,,null
+2341700662551,,null,Handle cookies on log.optimizely.com better,"Here are the problems:
+
+1.  We issue a new cookie every time you see a different optimizely snippet
+2. All of these cookies get sent on every log request.
+3. Our server craps out if you have more than X cookies, serving 400s
+
+A solution, suggested by Josh at Torbit, is to have log calls go to project_id.log.optimizely.com, and to scope our cookies to that domain only.  Nailed.",null
+4205860941659,,2013-03-08,Observe Do Not Track header,"Test in Chrome, Firefox, IE, Safari.  Get Optimizely listed on http://donottrack.us/implementations.
+
+Investigate IE 10 default behavior, and see how much we might exclude.",null
+4205860941661,,2013-03-08,Make bot@optimizely.com and deploy@optimizely.com use application-specific passwords,"Switch bot@ and deploy@ to use ""2-step verification"" so we can require it for all Google Apps accounts.",null
+4205860941664,,2013-03-08,Expose raw event export,"Results page links should be changed to:
+Export Summary (CSV)
+Export Logs (CSV)
+Shareable Link
+
+Export Logs should only be available to Platinum (and admin).
+
+In addition to exposing on results page, include segments in raw event format (also update src/script/csv.py to support).
+
+Test with multi-gigabyte CSV downloads.  Some of have reported download gets interrupted.
+
+Make api server shutdown gracefully so that it waits and doesn't interrupt CSV downloads (might be good enough to just specify high reload-mercy in api_uwsgi.conf).",null
+4205860941667,,2013-03-08,Update Backend Architecture graph,"https://docs.google.com/a/optimizely.com/drawings/d/1OTrjFPQfCa1lHzziqWIfjPDqjHbiKrGgZz1YyqF9e40/edit
+
+Consider moving graph to wiki.  There is apparently a good Confluence plugin to do diagramming.",null
+4205860941669,,2013-03-08,Code review all requests to App Engine,"Make sure they are done early in job executions or other code paths.  If the App Engine request fails, the code path should just short circuit out quickly (and gracefully).
+
+Optimize and make sure we don't do unnecessary requests.
+
+Make sure all requests in try/excepts.  I believe the only offender is gae.get_segments().  Make sure calling code can handle failures.
+
+Investigate adding timeout to App Engine requests (something like 30 seconds).  This is to prevent an App Engine request from using up all a job's timeout time.",null
+4205860941671,,2013-03-08,Fix memory leak in src/script/monitor_gae.py,"Can either make the script save its state to disk and have it run as a cron job (to check at regular intervals instead of always running) or figure out where the actual leak is.
+
+Historically has run on the general server in a screen session.",null
+4205860941673,,2013-03-08,Buy EC2 reserved instances,Inventory current instance type usage to get cost estimate and coordinate with accounting to come up with purchase schedule.,null
+4205860941675,,2013-03-08,Insert raw events in bulk operations,"On insert servers, queue up events and insert them in one bulk operation to databases.  Make insert happen every X seconds or after Y events have been queued.  X and Y are tunable (specified in insert.yaml).  Try X = 1 and Y = 1,000.
+
+If insert fails, put events into locally running Redis process (which you create) to retry later.
+
+Possibly fold into log tier.",null
+4205860941677,,2013-03-08,Calculate account and experiment visitor usage for billing,"Create filters for every Recurly billing period.
+
+This code is very close:
+https://github.com/optimizely/optimizely/compare/devel...backend-usage
+",null
+4205860941679,,2013-03-08,Make beta query parameter only work for admin on results page,Make sure to communicate with success to let them know about this change.,null
+4205860941681,,2013-03-08,Put third-party tracking cookie on unique domain per account,,null
+4205860941683,,2013-03-08,"Upgrade insert-1b-1, insert-1e-1 to c1.xlarge",,null
+4205860941685,,2013-03-08,"Create ""Situation"" HipChat room and broadcast PagerDuty alerts into it",,null
+4205860941687,,2013-03-08,Upgrade panoptes instance type to c1.xlarge,,null
+4205860941689,,2013-03-08,Break up sum of squares calculation into separate request on results page,This allows the page to load faster for experiments that have many revenue events.,null
+4205860941691,,2013-03-08,"Make src/aws/backup.py run ""after_commands"" if there is a failure",,null
+4205860941693,,2013-03-08,Get historical databases (db2) doing EBS snapshots,"Right now db2-backup projects are not running on these instances because at the hour mark it makes our account hit its AWS request limit.
+
+Either move the backups so that they occur not on the hour mark or get AWS to raise our request limit.",null
+4205860941695,,2013-03-08,Create process that regularly backs up all of our App Engine data onto S3,,null
+4205860941699,,2013-03-08,Investigate status of Splunk servers,"Check that they are all making EBS snapshots.
+
+Verify load on servers especially the one Splunk server that now receives all new experiments.
+
+Also add monitoring.
+
+May also need to check disk usage (if that's relevant).",null
+4205860941697,,2013-03-08,Ensure consistency with client-side checks on results page,"Define invariants on results page such as count values should never be lower than their value in the previous results refresh.
+
+Reject results refreshes that break invariants and log to App Engine details.
+
+Make reset results immediately zero results as well as send experiment.earliest in results request so that data prior to reset is not shown.
+
+Combine duplicate time_series:
+https://github.com/optimizely/optimizely/cwompare/devel...backend-timeseries-collapse-in-results
+",null
+4205860941701,,2013-03-08,Handle failed downloads from optimizely-files better,"Add sha1 hashes of files to waf.conf and compare to sha1 of downloaded files.
+
+Write script to upload new files (don't allow overwrite of same filename).  Script should show sha1 to make adding to waf.conf easier.
+",null
+4205860941703,,2013-03-08,"Restore db-a-backup-1b, db-c-backup-1e, db-d-backup-1c",Instances fell behind in replication and need to be restored from backups.,null
+4205860941705,,2013-03-08,Remove db compact servers,"No longer needed now that we have historical databases (db2).
+
+",null
+4205860941707,,2013-03-08,Set up new test domain: optimizely.test,"Allows us to not include optimizely.com SSL certificate in git.
+
+Use a self-signed certificate for optimizely.local.
+
+Add a DNS server to local project to allow *.log.optimizely.local.  Consider djbdns or just use builtin Mac OS X server.
+",null
+4205860941709,,2013-03-08,Set up Redis slave in different availability zone for redis-dedup-1b-1,Optional: investigate application-level code for switching to slave if master is unreachable.,null
+4205860941713,,2013-03-08,Configure key expiration for keys in redis-dedup-1b-1,"Try using an expiration of one week to start.
+
+Look at current keys and check in database to look for potential candidate key to remove: paused experiments, last_process_time a while ago.
+",null
+4205860941715,,2013-03-08,Remove backloaded_set and ignore_set keys in dedup logic,"backloaded_set contains set of filter IDs that have been backloaded.  ignore_set contains set of filter IDs that should be ignored.  Instead of putting all the filter IDs into two sets, create a global keys like <filter_id>_backloaded and <filter_id>_ignore.
+
+Check backloaded key early on in count code path and if we know we're going to use Redis for deduping, we can increase event_limit_max/event_limit_min.",null
+4205860941711,,2013-03-08,Update pep8 and pylint packages,"In addition to putting latest source in waf.conf, build/lint.py will have to be modified to support the changes to the internals of these packages.
+
+Also, all new offending code will need to be fixed.",null
+4205860941717,,2013-03-08,Research database alternatives,"Consider operational/developer productivity, community support, and track record in addition to just performance/features.
+
+Consider only partial replacement of MongoDB if that makes sense.",null
+4205860941719,,2013-03-08,"Write scripts to deploy to specific server, tier(s) of servers",,null
+4205860941721,,2013-03-08,Research ways we can avoid having optimizely-us-east-1.pem on everyone's system,,null
+4205860941725,,2013-03-08,Reduce unnecessary event requests,"Don't send request if no experiment is running.
+
+Explore sending back unique set of events seen in XHR request, storing that client-side, and not sending same events in the future.
+",null
+4205860941727,,2013-03-08,Set up Phabricator for us to evaluate,,null
+4205860941729,,2013-03-08,Research git best practices,,null
+4205860941731,,2013-03-08,Move multi_event updates to always happen in most recent collection,,null
+4205860941733,,2013-03-08,Tweak Server Density configuration so that each tier has a unique agent key,,null
+4205860941735,,2013-03-08,Instrument operations using statsd,"Monitor internal consistency checks.
+
+Measure latencies on App Engine, Memcached, MongoDB, Redis.
+
+Expose through stats.optimizely.com.
+
+More info from Eric
+
+Log servers
+Incoming events/sec, broken down by account or experiment
+Http request completion latency and status code breakdown
+
+Insert servers
+incoming counting events/sec (broken down by insert server and count server); should reconcile with log server event/sec
+
+Count servers
+Count jobs/sec (broken down by count server and process, and by job types of filter.update and filter._process_filter
+Context: filter.update is called every time an event comes in, or an invalidation is invoked; after checking to see if filter should be updated, it queues up the filter._process_filter job
+Impact: can determine where the bottlenecks, and whether they are leading to results latencies
+Number of events processed per job (a job is called an interation)
+How many events are duplicates (for first event events)
+Filter update metrics (broken down by description of filter)
+Report rolling data calculation inconsistencies between filters and time series
+Number of duplicate time series
+
+Api servers
+Http request completion latency and status code breakdown
+Third party operations:
+
+MongoDB
+Latency on all db operations (broken by dbs, and function calls)
+Error frequencies (due to timeouts)
+On config servers, looking at how many balance ops/sec, how many chunk migrations/sec, how many splits/sec
+Average age of last balance operation (indicates when to add shard)
+
+Memcache
+Success and latency of all memcache operations
+
+GAE operations (since it has cascading effects)
+Will indicate if/what we should change in our dependency on GAE
+
+Redis
+All ops/sec
+Memory as reported by Redis
+Number of connected clients, number of key stores, number of blocked clients, changes since last save, how long ago did last save occur",null
+4725825717823,,2013-04-03,Doc that explains how to setup iHance correctly,"Most people on the sales team do not have iHance setup correctly to forward outbound email to the service. Need to create a clear ""Optimizely"" version of how to do that. ",null
+4725825717827,,2013-04-22,Research whether LinkedIn Premium or Data.com is better for Prospecting,"Data.com doesn't seem to be that good for getting contact data, and it's expensive. Will the LinkedIn service get us better info? ",null
+4725825717831,,2013-04-22,What role does ClearSlide play in our sales process? ,"Need to figure out what type of Clearslide account should we have, and what groups of people in the team should be using it. ",null
+4725825717836,,2013-04-18,Create as-is map of our current Opportunity process,,null
+5004529272524,,2013-04-26,Create the best demo results page we can ,"We've improved a bit, but still don't have a great results page that tells the story we want. Would love for you to collaborate with product and eng to build a sweet results page that can be used in standard demos. ",null
+5100350139230,,2013-04-26,Figure out THE best headsets possible,,null
+4678003170648,,2013-03-28,Email tools and process document,"We have a bunch of different tools: Gmail, Salesforce, Streak, Boomerang, Yesware, Cirrus, and iHance. When to use what? Need a document",null
+4681354219310,,2013-03-28,Figure out solution to shadow on phone calls,"Need to come up with a clever solution so a second salesperson shadowing can listen into a call that's not a full blown GoToMeeting. Can you research splitters, or plugging in multiple headsets? ",null
+4236566788306,,null,Create doc of closing process questions,Ian asked for a list of good questions to be asking at the end of the cycle to understand the decision and closing process. I'll start a Google doc and others can add. ,null
+4236566788311,,2013-03-01,List of upfront discovery questions,"Generate the list of good discovery questions to be asking at the beginning of the sales cycle, pre-demo. Some could be tackled by SDRs, some by AE.  ",null
+4236566788315,,2013-03-01,Gives and Gets,Build the list of standard gives and gets that we can deploy in the cycle. Create a prioritized list that gives everyone a framework for what to offer and what to get in return. ,null

@@ -1,0 +1,8 @@
+gid,due_on,name,notes,parent.gid,parent.resource_type,start_on
+1183372481645173,null,Learn more about using Asana for design teams,https://asana.com/teams/designers,1183372481645172,task,null
+1183372481645174,null,Break work into tasks and assign date ranges to signify when work needs to be done,,1183372481645172,task,null
+1183372481645175,null,Use sections to group work together,,1183372481645172,task,null
+1183372481645176,null,Use Custom Fields to track priority and task progress,,1183372481645172,task,null
+1183372481645203,2020-07-14,test subtask1,This is test subtask1,1183372481645201,task,null
+1183372481645204,2020-07-15,test subtask2,This is test subtask2,1183372481645201,task,null
+1183372481645215,null,,,1183372481645201,task,null
